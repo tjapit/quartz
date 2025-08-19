@@ -5,15 +5,14 @@ aliases:
   - Fuck it, we ball
 tags:
   - perm
-  - draft
   - article
-created: 2025-08-13T04:42
-published: 2025-08-18T00:57
+created: 2025-08-18 00:57
+modified: 2025-08-19 23:07
 title: On Subjectivity
 type: perm
 ---
 
-> For you, Past Me™ of 2020. Who needed this most.
+> For Past Me™ who needed this most.
 
 > [!WARNING]+ 
 > 
@@ -21,24 +20,42 @@ type: perm
 >
 > Also, if anything reads awkward, I'm ESL. 
 
-I've been rereading a book on Existentialism, L. Nathan Oaklander's
+> [!INFO]- REF
+> 
+>  - [📋 josebrowne — On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
+>  - [📋 buttondown — Advice for new software devs who've read all those other advice essays](https://buttondown.com/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
+>  - 📖 Oaklander, L. Nathan. Existentialist philosophy: An introduction. Prentice Hall, 1992.
+>  - [▶️ HealthyGamerGG — How Religion Affects Your Mental Health](https://www.youtube.com/watch?v=sc3ycMvyuoo&t=979s)
+>  - [🌐 Wikipedia — Anussati](https://arc.net/l/quote/hjlyntbb)
+>  - [▶️ HealthyGamerGG — The Difference Between Belief and Knowledge](https://www.youtube.com/shorts/6Ux2U-AJp3E)
+>  - [▶️ HealthyGamerGG — Is Your Mind Functioning Properly?](https://www.youtube.com/shorts/icfI_iVLeRs)
+>  - [▶️ CGP Grey — Metric Paper...](https://www.youtube.com/watch?v=pUF5esTscZI)
+>  - [▶️ Aba N Preach — \Most Men Who Take Their Life Had No History Of Mental Illness\ — Dr K](https://youtu.be/COH2xBqZfZo?si=H94t40b2NtjhrTYp&t=9)
+>  - 📄 Van Orden, Kimberly A et al. “Thwarted belongingness and perceived burdensomeness: construct validity and psychometric properties of the Interpersonal Needs Questionnaire.” Psychological assessment vol. 24,1 (2012): 197-215. [doi:10.1037/a0025358](https://pmc.ncbi.nlm.nih.gov/articles/PMC3377972/)
+>  - [📋 Friedrich Wilhelm Nietzsche — The Gay Science, Section 125: The Madman](https://www.markandrewholmes.com/godisdead.html)
+>  - [📋 Quote Investigator — Quote Origin: The Past Is History. The Future Is a Mystery. Today Is a Gift. That's Why It's Called the Present](https://quoteinvestigator.com/2023/07/26/past-history/)
+>  - [▶️ Riifushi — So Nobody Taught You How to Be An Adult Too?](https://youtu.be/6HsGfJn90bo?si=4mPghj4SOk5fncC2&t=482)
+
+
+I'd been rereading a book on Existentialism, L. Nathan Oaklander's
 "Existentialist Philosophy: An Introdduction", which I read a couple years back
 in a philosophy course during my last year at uni. On top of that, a couple of
 articles triggered my long buried interest in writing more recently. 
 
 They are somewhat (distantly) related to this topic, 
 
-  - [📝 josebrowne — On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
-  - [📝 buttondown — Advice for new software devs who've read all those other advice essays](https://buttondown.com/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
+  - [📋 josebrowne — On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
+  - [📋 buttondown — Advice for new software devs who've read all those other advice essays](https://buttondown.com/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 
 Shoutout to them, they're a great 2-5m reads. Please do check them out.
 
 Anyways, I'd always wanted to try my hand at writing and publishing my own
 article, but never had the balls to do it. And so, the following is my attempt
 at talking about a part of Existentialism as I understand it (no Dostoevsky
-though, sorry folks). Fair warning, it's going to be filled with
-contradictions, maybe a little abrasive, maybe a little preachy at times, but
-please take the poetry of what I'm trying to convey and not the prose. 
+though, sorry folks) and how it has helped me walk this life. Fair warning,
+it's going to be filled with contradictions, maybe a little abrasive, maybe a
+little preachy at times, but please heed the poetry of what I'm trying to
+convey, not the prose. 
 
 Without further ado,
 
@@ -59,35 +76,40 @@ Subjectivity is Truth. Bear with me.
 
 We often get the framing of the question, "What's the meaning of life?"
 incorrect. When we first set out to answer this question for ourselves, we
-might think there's that one meaning out there in the world, something that you
-might stumble upon lying on the ground, "Yep, there she is, that's the meaning
-of life right there." There's an *objectivity* to it, there's that one thing
-that is true *externally* (pick your poison, whatever-isms) and we think we
-should follow that source of truth outside of ourselves.
+might think there's that one meaning out there in the world, one you might
+stumble upon lying on the ground, "Yep, there she is, that's the meaning of
+life right there." There's an *objectivity* to it, there's that one thing that
+is true *externally* (pick your poison, whatever-isms) and we think we should
+follow that source of truth which is outside of ourselves.
 
-But hold on, just think about it for a second. Is there really one thing out
-there that everyone should follow, when everyone's circumstances are so
-different? Is there really such a thing as an objective truth? If there isn't
-any, what should be the north star I follow then? Based on my nearly three
-decades living as a human being on this earth, I've been moving towards the
-conclusion that the universe is ultimately meaningless and indifferent — life
-never really tells you what you should or shouldn't do. Really, your next poop
-is as meaningful as your next promotion in the eyes of an uncaring universe. 
+But hold on a second, when you stop and think about it, 
 
-I'm not trying to be nihilistic nor fall into meaninglessness. I say this
+- Is there really one thing out there that everyone should follow, when
+everyone's circumstances are so different? 
+- Is there really such a thing as an objective truth? 
+- If there isn't any, what should be the north star I follow then? 
+
+Personally, I don't think so. Based on nearly three decades living as a human
+being on this earth, I've been moving towards the conclusion that the universe
+is ultimately meaningless and indifferent — life never really tells you what
+you should or shouldn't do. Frankly, your next poop is as meaningful as your
+next promotion in the eyes of an uncaring universe. 
+
+Not trying to be nihilistic nor fall into meaninglessness here. I say this
 neutrally, not in a hopeless, "Oh, the tragedy... the despair... the world is
 so uncaring and forgiving, why care about anything at all?" In fact, it's from
-this point of view of "the universe ultimately having no meaning", that I've
-found "meaning" in life. In my humble opinion, the only proper way to talk
-about the meaning of life is in a subjective manner. That is, how the question
-relates to *you*, not the systematic belief you may or may not subscribe to.
+this point of view of "the universe ultimately having no meaning" that I've
+found "meaning" in life. In my opinion, the only proper way to talk about the
+meaning of life is in a subjective manner. That is, how the question relates to
+*you*, not the systematic belief you may or may not subscribe to.
 
-As an aside, I don't care much for -isms because of the history of the harm
-that it's caused. Humans acting in bad faith have [taken advantage of others](https://youtu.be/sc3ycMvyuoo?si=fUPWT03CcXKhdNL_&t=979) who are in
-crisis and looking towards "meaning" for salvation. But I digress.
 
-> [!NOTE]- Side note: Vindication
+> [!NOTE]- Side Note: On -isms
 > 
+> As an aside, I don't care much for -isms because of the history of the harm
+> that it's caused. Humans acting in bad faith have [taken advantage of others](https://youtu.be/sc3ycMvyuoo?si=fUPWT03CcXKhdNL_&t=979) who are in
+> crisis and looking towards "meaning" for salvation.
+>
 > I was so happy when I read how Kierkegaard voiced the nebulous hunch I'd had
 > for years,
 >
@@ -103,7 +125,8 @@ crisis and looking towards "meaning" for salvation. But I digress.
 > becomes something infinitely great, and at the same time nothing at all."
 > (Oaklander 32)
 >
-> Out with you, damn -isms! Stop preaching about what "we" should do!
+> Out with you, damn -isms! Stop preaching about what "we" should do! But I
+> digress.
 
 Enter, Existentialism. 
  
@@ -120,32 +143,32 @@ Enter, Existentialism.
 > to you, although I hope that this book will serve to direct your attention to
 > it." (Oaklander 8)
 
-I love Existentialism (yes, it's an -ism, and what? told you, contradictions)
-because it's one of the first times that something had pointed me to my own
-subjectivity instead of telling me what I should or shouldn't do.
+I love this because it's one of the first times that something had pointed me
+to my own subjectivity instead of telling me what I should or shouldn't do,
+"Ah, this guy gets it."
 
-For me, my existentialist moment was in the Fall of 2021, I was in the library,
-borrowing Oaklander's book. And honestly? I never really liked reading, I
-sucked at it. I read slow and stuff on the page just never stuck with me, which
-discouraged me even more. Looking back, the frequent thought loops of "I've
-survived so far without reading much; why start now?" was an ego defense that
-came from insecurity and stopped me from ever picking up something to read. But
-this book kept me hooked, I had goosebumps all over my body reading through
-that paragraph. Suddenly, it didn't really matter whether I was good or bad at
-reading, I just really wanted to read that book. It certainly pointed me in the
-right direction at the time, and more recently, it's signaled me again to write
+For me, my existentialist moment came in the Fall of 2021. I was in the
+library, borrowing and reading through Oaklander's book. And honestly? I never
+really liked reading, I sucked at it. I read slow and stuff on the page just
+never stuck with me, which discouraged me even more. Looking back, the frequent
+thought loops of "I've survived so far without reading much; why start now?"
+was an ego defense—rooted in insecurity—which stopped me from ever picking up
+something to read and sticking with it. Despite this, the book kept me hooked,
+I had goosebumps all over my body reading through that paragraph and subsequent
+passages. Suddenly, it didn't really matter whether I was good or bad at
+reading, I just really wanted to read. It certainly pointed me in the right
+direction at the time, and more recently, it's signaled me again to write
 something with it, anything.
 
-Hopefully you've felt something similar to what I exeperienced with this book.
-Whether that signal comes from Christianity for you, Buddhist traditions,
-Kundalini practices, ancient Greek philosophy, etc.; it's something invaluable
-for you to go deeper into yourself, your subjectivity, in a world that pulls
-our attention more and more outside of ourselves. If this resonates, I highly
-recommend the book from Oaklander, it's a big part of the inspiration for this
-article.
+Hopefully you've felt something similar to what I exeperienced with Oaklander's
+book — it's invigorating. Whether that signal comes from Christianity for you,
+Buddhist traditions, Kundalini practices, ancient Greek philosophy, etc.; going
+deeper into yourself—your subjectivity—is invaluable, especially in a world
+that pulls our attention more and more outside of ourselves. If this resonates,
+I highly recommend the book from Oaklander, it's a big part of the inspiration
+for this article.
 
-Back to subjectivity. (which ironically, talking about it pulls us away from
-our own subjectivity)
+Back to subjectivity.
 
 What I learned from this book was that: The only Truth there is, is the truth
 for you. Forget about objective truth, forget about what other people think,
@@ -154,44 +177,48 @@ received was, "Don't listen to any advice. Any advice that works for one
 person, the exact opposite is true for another." This of course includes what
 you're reading right now. 
 
-Don't believe anything simply because you've heard it. Come and see for
-yourself — borrowing from Buddhist ideas,
-[*Ehipassiko*](https://arc.net/l/quote/hjlyntbb). In fact, I would go one step
-further into saying, [*don't believe*](https://www.youtube.com/shorts/6Ux2U-AJp3E).
+> "Don't believe anything simply because you've heard it. Come and see for
+> yourself" — borrowing from Buddhist ideas, [[202508160454-come-and-see|Ehipassiko]]
 
-I believe that belief is overrated. Do you believe in gravity? Do you believe
-that you'll fall back down if you jumped? No, of course not, belief doesn't
-even enter the picture, it simply is, it's a *knowing. Although, I only know
-this once I do jump and see that I do fall. This is exactly what inspired and
-pushed me to put this out in the world, I wanted to see how it was like to
-write and publish an article. 
+In fact, I would go one step further into saying, [*don't believe*](https://www.youtube.com/shorts/6Ux2U-AJp3E).
+
+I believe that belief is overrated. Illustrating with a couple questions that
+may sound condescending: Do you believe in gravity? Do you believe that you'll
+fall back down if you jumped? Of course not, belief doesn't even enter the
+picture, it simply is, it's a *knowing*. Although, knowledge only comes to the
+ones who seek. I only know this once I do the action—jump—and see that I do
+fall. This is exactly what inspired and pushed me to make this article and put
+it out into the world, I wanted to see how it was like to write and publish. 
 
 This is one of the instances where I actually followed my own advice. I forgone
 the idea about whether other people will judge it harshly, I forgone the doubt
 of "Oh, I don't know how to do it, it's my first time, will it be good?"
 Realizing that *that* line of thinking is the trap of how there's "the one
-objectively perfect article" I can write. An judgment of objective truth from
+objectively perfect article" I can write — a judgment of objective truth from
 which lens viewed, my article is the ultimate suck or the best thing since
-sliced bread. But this train of thought paralyzes me, sometimes it runs so deep
-that I don't even recognize that it's running like a daemon in the background.
-At some point, it all boils down to "just do it". (Yes, I understand that all
-the previous stages such as contemplative, pre-contemplative, etc. are also
-important)
+sliced bread. However, this train of thought serves nothing but to paralyze me,
+sometimes it runs so deep that I don't even recognize that it's running like a
+daemon in the background. Fall into the rabbit hole deep enough, you eventually
+come out the other side and realize it boils down to "just do it".
 
-This is my subjectivity, I'm using what I've learned from software development,
-Existentialism, Buddhism, HealthyGamer and implementing it to writing. So far
-it's working wonders and I want to share it, 
+So here's my subjectivity, I'm using what I've learned from software
+development, Existentialism, Buddhism, HealthyGamer and implementing it to
+writing. So far it's working wonders and I want to share it, 
 
 - Paralysis of initiation often holds me back, "Is it gonna be good?", "What
 if I write something bad?", whatever form of fear of failure, impostor
 syndrome, anxiety is there.
-    - Procrastination, which ultimately boils down to [unaddressed fear](https://www.youtube.com/shorts/icfI_iVLeRs) or
-    anxiety, which I usually soothe with playing games, working on less
-    difficult projects instead of addressing the "elephant in the room"
-    project, avoiding journaling the hard feels.
-- So break things fast. Just write, good or bad. Article or code. We can always
-edit later, trying to perfect stuff in one go is just silly, I'm not Dijkstra
-nor am I Alain de Botton. 
+    - Concretely, procrastination—rooted in [unaddressed
+    fear](https://www.youtube.com/shorts/icfI_iVLeRs) or anxiety—which I
+    usually soothe with playing games, working on less difficult
+    projects instead of addressing the "elephant in the room" project, or avoid
+    journaling the hard feels. 
+    - These half-baked solutions never really solves the root problem, but I
+    sometimes find myself reflexively reaching for them because they're quick
+    and easy.
+- Instead, break things fast. Just write, good or bad. Article or code. We can
+always edit later, trying to perfect stuff in one go is just silly, I'm not
+Dijkstra nor am I Alain de Botton. 
     - It's taken me days, weeks, months from having this in the back of my
     mind, triggered by a couple articles, to ideation, to finally having it on
     paper, so to speak.
@@ -203,19 +230,19 @@ students.
     and learn more about myself, it usually boils down to ego defense mechanism
     and being reluctant to do things because of discomfort — the root is almost
     always insecurity.
-- But ultimately, again, what works for me, may not work for you. 
+- But ultimately, what works for me, may not work for you. 
     - Even for me, what worked for Past Me™ a week ago, sometimes doesn't work
     for me now.
     - In fact, I found that expecting what worked for me yesterday would work
     for me today is one of the potholes I often fall into. 
-    - Pedestaling yesterday's achievement as today's bare minimum is a fast
-    way to paralyze me that day. 
+    - Pedestaling yesterday's achievement as today's bare minimum is a fast way
+    to paralyze me that day. 
 - *It's an attitude, not any one thing,* and the attitude that's worked for me
 recently is: "Fuck it, we ball.* (basically, another take on YOLO)
 
 It's not so much *an external change*, but more of *how I conduct myself in my
 own internal landscape*. This brings us nicely to the line in one of the
-articles that finally pushed me to write this,
+articles that gave me the last push to write this,
 
 ## What vs How
 
@@ -272,9 +299,9 @@ You get the point, the question is *existentially irrelevant*, it doesn't help
 point us back to our own subjectivity and remind us that each and every one of
 us is an existing, living human being. 
 
-This is why I (for lack of a better word) believe that it is about our
-attitude, the *how* in which we relate to that something that counts as the
-truth. From Kierkegaard's "Concluding Unscientific Postscript",
+This is why I believe that it's all about attitudes, the *how* in which we
+relate to that something that counts as the truth. From Kierkegaard's
+"Concluding Unscientific Postscript",
 
 > "If one who lives in a Christian culture goes up to God's house, the house of
 > the true God, with a true conception of God, with knowledge of God and
