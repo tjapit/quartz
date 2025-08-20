@@ -9,7 +9,7 @@ const VALID_NOTE_REF = {
   NEXT: "next",
   PREV: "prev",
   REF: "ref",
-  SRC: "source"
+  SRC: "source",
 } as const
 
 // source: https://www.youtube.com/watch?v=6M9aZzm-kEc
@@ -17,7 +17,6 @@ export type RefType = (typeof VALID_NOTE_REF)[keyof typeof VALID_NOTE_REF]
 
 export default (() => {
   const FooterRef: QuartzComponent = (props: QuartzComponentProps) => {
-
     return (
       <div class={classNames(props.displayClass, "footer-ref")}>
         <RefNav refType="prev" {...props} />

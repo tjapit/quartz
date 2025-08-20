@@ -14,38 +14,37 @@ type: perm
 
 > For Past Me™ who needed this most.
 
-> [!WARNING]+ 
-> 
+> [!WARNING]+
+>
 > Mentions of suicidality because Existentialism.
 >
-> Also, if anything reads awkward, I'm ESL. 
+> Also, if anything reads awkward, I'm ESL.
 
 > [!INFO]- REF
-> 
->  - [📋 josebrowne — On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
->  - [📋 buttondown — Advice for new software devs who've read all those other advice essays](https://buttondown.com/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
->  - 📖 Oaklander, L. Nathan. Existentialist philosophy: An introduction. Prentice Hall, 1992.
->  - [▶️ HealthyGamerGG — How Religion Affects Your Mental Health](https://www.youtube.com/watch?v=sc3ycMvyuoo&t=979s)
->  - [🌐 Wikipedia — Anussati](https://arc.net/l/quote/hjlyntbb)
->  - [▶️ HealthyGamerGG — The Difference Between Belief and Knowledge](https://www.youtube.com/shorts/6Ux2U-AJp3E)
->  - [▶️ HealthyGamerGG — Is Your Mind Functioning Properly?](https://www.youtube.com/shorts/icfI_iVLeRs)
->  - [▶️ CGP Grey — Metric Paper...](https://www.youtube.com/watch?v=pUF5esTscZI)
->  - [▶️ Aba N Preach — \Most Men Who Take Their Life Had No History Of Mental Illness\ — Dr K](https://youtu.be/COH2xBqZfZo?si=H94t40b2NtjhrTYp&t=9)
->  - 📄 Van Orden, Kimberly A et al. “Thwarted belongingness and perceived burdensomeness: construct validity and psychometric properties of the Interpersonal Needs Questionnaire.” Psychological assessment vol. 24,1 (2012): 197-215. [doi:10.1037/a0025358](https://pmc.ncbi.nlm.nih.gov/articles/PMC3377972/)
->  - [📋 Friedrich Wilhelm Nietzsche — The Gay Science, Section 125: The Madman](https://www.markandrewholmes.com/godisdead.html)
->  - [📋 Quote Investigator — Quote Origin: The Past Is History. The Future Is a Mystery. Today Is a Gift. That's Why It's Called the Present](https://quoteinvestigator.com/2023/07/26/past-history/)
->  - [▶️ Riifushi — So Nobody Taught You How to Be An Adult Too?](https://youtu.be/6HsGfJn90bo?si=4mPghj4SOk5fncC2&t=482)
-
+>
+> - [📋 josebrowne — On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
+> - [📋 buttondown — Advice for new software devs who've read all those other advice essays](https://buttondown.com/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
+> - 📖 Oaklander, L. Nathan. Existentialist philosophy: An introduction. Prentice Hall, 1992.
+> - [▶️ HealthyGamerGG — How Religion Affects Your Mental Health](https://www.youtube.com/watch?v=sc3ycMvyuoo&t=979s)
+> - [🌐 Wikipedia — Anussati](https://arc.net/l/quote/hjlyntbb)
+> - [▶️ HealthyGamerGG — The Difference Between Belief and Knowledge](https://www.youtube.com/shorts/6Ux2U-AJp3E)
+> - [▶️ HealthyGamerGG — Is Your Mind Functioning Properly?](https://www.youtube.com/shorts/icfI_iVLeRs)
+> - [▶️ CGP Grey — Metric Paper...](https://www.youtube.com/watch?v=pUF5esTscZI)
+> - [▶️ Aba N Preach — \Most Men Who Take Their Life Had No History Of Mental Illness\ — Dr K](https://youtu.be/COH2xBqZfZo?si=H94t40b2NtjhrTYp&t=9)
+> - 📄 Van Orden, Kimberly A et al. “Thwarted belongingness and perceived burdensomeness: construct validity and psychometric properties of the Interpersonal Needs Questionnaire.” Psychological assessment vol. 24,1 (2012): 197-215. [doi:10.1037/a0025358](https://pmc.ncbi.nlm.nih.gov/articles/PMC3377972/)
+> - [📋 Friedrich Wilhelm Nietzsche — The Gay Science, Section 125: The Madman](https://www.markandrewholmes.com/godisdead.html)
+> - [📋 Quote Investigator — Quote Origin: The Past Is History. The Future Is a Mystery. Today Is a Gift. That's Why It's Called the Present](https://quoteinvestigator.com/2023/07/26/past-history/)
+> - [▶️ Riifushi — So Nobody Taught You How to Be An Adult Too?](https://youtu.be/6HsGfJn90bo?si=4mPghj4SOk5fncC2&t=482)
 
 I'd been rereading a book on Existentialism, L. Nathan Oaklander's
 "Existentialist Philosophy: An Introdduction", which I read a couple years back
 in a philosophy course during my last year at uni. On top of that, a couple of
-articles triggered my long buried interest in writing more recently. 
+articles triggered my long buried interest in writing more recently.
 
-They are somewhat (distantly) related to this topic, 
+They are somewhat (distantly) related to this topic,
 
-  - [📋 josebrowne — On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
-  - [📋 buttondown — Advice for new software devs who've read all those other advice essays](https://buttondown.com/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
+- [📋 josebrowne — On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
+- [📋 buttondown — Advice for new software devs who've read all those other advice essays](https://buttondown.com/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 
 Shoutout to them, they're a great 2-5m reads. Please do check them out.
 
@@ -55,45 +54,45 @@ at talking about a part of Existentialism as I understand it (no Dostoevsky
 though, sorry folks) and how it has helped me walk this life. Fair warning,
 it's going to be filled with contradictions, maybe a little abrasive, maybe a
 little preachy at times, but please heed the poetry of what I'm trying to
-convey, not the prose. 
+convey, not the prose.
 
 Without further ado,
 
 ## Subjectivity is Truth
 
 > [!TLDR]-
-> 
-> - Subjectivity is truth, objective truth is scam. 
-> - An Existentialist system is impossible because *system* implies
->   finality and an existing individual is anything but. 
+>
+> - Subjectivity is truth, objective truth is scam.
+> - An Existentialist system is impossible because _system_ implies
+>   finality and an existing individual is anything but.
 > - I hate -isms.
-> - Unless it's Existentialism, because it points to our subjectivity. 
-> - Living life is all about *attitude* and ultimately never about the *one
->   thing*.
+> - Unless it's Existentialism, because it points to our subjectivity.
+> - Living life is all about _attitude_ and ultimately never about the _one
+>   thing_.
 > - Attitude that's helped me move forward recently: "Fuck it, we ball!"
 
-Subjectivity is Truth. Bear with me. 
+Subjectivity is Truth. Bear with me.
 
 We often get the framing of the question, "What's the meaning of life?"
 incorrect. When we first set out to answer this question for ourselves, we
 might think there's that one meaning out there in the world, one you might
 stumble upon lying on the ground, "Yep, there she is, that's the meaning of
-life right there." There's an *objectivity* to it, there's that one thing that
-is true *externally* (pick your poison, whatever-isms) and we think we should
+life right there." There's an _objectivity_ to it, there's that one thing that
+is true _externally_ (pick your poison, whatever-isms) and we think we should
 follow that source of truth which is outside of ourselves.
 
-But hold on a second, when you stop and think about it, 
+But hold on a second, when you stop and think about it,
 
 - Is there really one thing out there that everyone should follow, when
-everyone's circumstances are so different? 
-- Is there really such a thing as an objective truth? 
-- If there isn't any, what should be the north star I follow then? 
+  everyone's circumstances are so different?
+- Is there really such a thing as an objective truth?
+- If there isn't any, what should be the north star I follow then?
 
 Personally, I don't think so. Based on nearly three decades living as a human
 being on this earth, I've been moving towards the conclusion that the universe
 is ultimately meaningless and indifferent — life never really tells you what
 you should or shouldn't do. Frankly, your next poop is as meaningful as your
-next promotion in the eyes of an uncaring universe. 
+next promotion in the eyes of an uncaring universe.
 
 Not trying to be nihilistic nor fall into meaninglessness here. I say this
 neutrally, not in a hopeless, "Oh, the tragedy... the despair... the world is
@@ -101,11 +100,10 @@ so uncaring and forgiving, why care about anything at all?" In fact, it's from
 this point of view of "the universe ultimately having no meaning" that I've
 found "meaning" in life. In my opinion, the only proper way to talk about the
 meaning of life is in a subjective manner. That is, how the question relates to
-*you*, not the systematic belief you may or may not subscribe to.
-
+_you_, not the systematic belief you may or may not subscribe to.
 
 > [!NOTE]- Side Note: On -isms
-> 
+>
 > As an aside, I don't care much for -isms because of the history of the harm
 > that it's caused. Humans acting in bad faith have [taken advantage of others](https://youtu.be/sc3ycMvyuoo?si=fUPWT03CcXKhdNL_&t=979) who are in
 > crisis and looking towards "meaning" for salvation.
@@ -119,7 +117,7 @@ meaning of life is in a subjective manner. That is, how the question relates to
 > ..." (Oaklander 29)
 >
 > and,
-> 
+>
 > "Being an individual man is a thing that has been abolished, and every
 > speculative philosopher confuses himself with humanity at large; whereby he
 > becomes something infinitely great, and at the same time nothing at all."
@@ -128,8 +126,8 @@ meaning of life is in a subjective manner. That is, how the question relates to
 > Out with you, damn -isms! Stop preaching about what "we" should do! But I
 > digress.
 
-Enter, Existentialism. 
- 
+Enter, Existentialism.
+
 > "It was about 2 A.M. and dit was clear and cold. I looked out over the Iowa
 > River and I felt completely alone. I had the realization that what I made of
 > my life depended upon me and me alone; there was nothing in my past, nothing
@@ -172,28 +170,28 @@ Back to subjectivity.
 
 What I learned from this book was that: The only Truth there is, is the truth
 for you. Forget about objective truth, forget about what other people think,
-forget about what you *should* be doing. Honestly, the best advice I ever
+forget about what you _should_ be doing. Honestly, the best advice I ever
 received was, "Don't listen to any advice. Any advice that works for one
 person, the exact opposite is true for another." This of course includes what
-you're reading right now. 
+you're reading right now.
 
 > "Don't believe anything simply because you've heard it. Come and see for
 > yourself" — borrowing from Buddhist ideas, [[202508160454-come-and-see|Ehipassiko]]
 
-In fact, I would go one step further into saying, [*don't believe*](https://www.youtube.com/shorts/6Ux2U-AJp3E).
+In fact, I would go one step further into saying, [_don't believe_](https://www.youtube.com/shorts/6Ux2U-AJp3E).
 
 I believe that belief is overrated. Illustrating with a couple questions that
 may sound condescending: Do you believe in gravity? Do you believe that you'll
 fall back down if you jumped? Of course not, belief doesn't even enter the
-picture, it simply is, it's a *knowing*. Although, knowledge only comes to the
+picture, it simply is, it's a _knowing_. Although, knowledge only comes to the
 ones who seek. I only know this once I do the action—jump—and see that I do
 fall. This is exactly what inspired and pushed me to make this article and put
-it out into the world, I wanted to see how it was like to write and publish. 
+it out into the world, I wanted to see how it was like to write and publish.
 
 This is one of the instances where I actually followed my own advice. I forgone
 the idea about whether other people will judge it harshly, I forgone the doubt
 of "Oh, I don't know how to do it, it's my first time, will it be good?"
-Realizing that *that* line of thinking is the trap of how there's "the one
+Realizing that _that_ line of thinking is the trap of how there's "the one
 objectively perfect article" I can write — a judgment of objective truth from
 which lens viewed, my article is the ultimate suck or the best thing since
 sliced bread. However, this train of thought serves nothing but to paralyze me,
@@ -203,103 +201,97 @@ come out the other side and realize it boils down to "just do it".
 
 So here's my subjectivity, I'm using what I've learned from software
 development, Existentialism, Buddhism, HealthyGamer and implementing it to
-writing. So far it's working wonders and I want to share it, 
+writing. So far it's working wonders and I want to share it,
 
 - Paralysis of initiation often holds me back, "Is it gonna be good?", "What
-if I write something bad?", whatever form of fear of failure, impostor
-syndrome, anxiety is there.
-    - Concretely, procrastination—rooted in [unaddressed
-    fear](https://www.youtube.com/shorts/icfI_iVLeRs) or anxiety—which I
-    usually soothe with playing games, working on less difficult
-    projects instead of addressing the "elephant in the room" project, or avoid
-    journaling the hard feels. 
-    - These half-baked solutions never really solves the root problem, but I
-    sometimes find myself reflexively reaching for them because they're quick
-    and easy.
+  if I write something bad?", whatever form of fear of failure, impostor
+  syndrome, anxiety is there. - Concretely, procrastination—rooted in [unaddressed
+  fear](https://www.youtube.com/shorts/icfI_iVLeRs) or anxiety—which I
+  usually soothe with playing games, working on less difficult
+  projects instead of addressing the "elephant in the room" project, or avoid
+  journaling the hard feels. - These half-baked solutions never really solves the root problem, but I
+  sometimes find myself reflexively reaching for them because they're quick
+  and easy.
 - Instead, break things fast. Just write, good or bad. Article or code. We can
-always edit later, trying to perfect stuff in one go is just silly, I'm not
-Dijkstra nor am I Alain de Botton. 
-    - It's taken me days, weeks, months from having this in the back of my
-    mind, triggered by a couple articles, to ideation, to finally having it on
-    paper, so to speak.
+  always edit later, trying to perfect stuff in one go is just silly, I'm not
+  Dijkstra nor am I Alain de Botton. - It's taken me days, weeks, months from having this in the back of my
+  mind, triggered by a couple articles, to ideation, to finally having it on
+  paper, so to speak.
 - If it runs deeper than that and I'm still procrastinating, what helps me move
-one step forward is journaling, Zettelkasten, bouncing ideas with Gippity (yes,
-I named my instace of ChatGPT), and inspiration from YouTube, articles, and my
-students. 
-    - Same thing with the problem I had with reading really, as I go to therapy
-    and learn more about myself, it usually boils down to ego defense mechanism
-    and being reluctant to do things because of discomfort — the root is almost
-    always insecurity.
-- But ultimately, what works for me, may not work for you. 
-    - Even for me, what worked for Past Me™ a week ago, sometimes doesn't work
+  one step forward is journaling, Zettelkasten, bouncing ideas with Gippity (yes,
+  I named my instace of ChatGPT), and inspiration from YouTube, articles, and my
+  students. - Same thing with the problem I had with reading really, as I go to therapy
+  and learn more about myself, it usually boils down to ego defense mechanism
+  and being reluctant to do things because of discomfort — the root is almost
+  always insecurity.
+- But ultimately, what works for me, may not work for you.
+  - Even for me, what worked for Past Me™ a week ago, sometimes doesn't work
     for me now.
-    - In fact, I found that expecting what worked for me yesterday would work
-    for me today is one of the potholes I often fall into. 
-    - Pedestaling yesterday's achievement as today's bare minimum is a fast way
-    to paralyze me that day. 
-- *It's an attitude, not any one thing,* and the attitude that's worked for me
-recently is: "Fuck it, we ball.* (basically, another take on YOLO)
+  - In fact, I found that expecting what worked for me yesterday would work
+    for me today is one of the potholes I often fall into.
+  - Pedestaling yesterday's achievement as today's bare minimum is a fast way
+    to paralyze me that day.
+- _It's an attitude, not any one thing,_ and the attitude that's worked for me
+  recently is: "Fuck it, we ball.\* (basically, another take on YOLO)
 
-It's not so much *an external change*, but more of *how I conduct myself in my
-own internal landscape*. This brings us nicely to the line in one of the
+It's not so much _an external change_, but more of _how I conduct myself in my
+own internal landscape_. This brings us nicely to the line in one of the
 articles that gave me the last push to write this,
 
 ## What vs How
 
 From [📝 josebrowne — On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/),
 
-> "It's clear to me now that it's not about *what I know*, but rather *how I
-> think* that's different on these days." — Jose Browne
+> "It's clear to me now that it's not about _what I know_, but rather _how I
+> think_ that's different on these days." — Jose Browne
 
-The longer I live, the more I'm starting to realize that it's in the *how* and
-not the *what* that holds me back in life. Regardless whether it's teaching,
+The longer I live, the more I'm starting to realize that it's in the _how_ and
+not the _what_ that holds me back in life. Regardless whether it's teaching,
 programming, writing, socializing, it's the attitude that you bring to the
 table that matters more, not so much the content of the matter. That line from
-Jose rang a Kierkegaard bell within me, 
+Jose rang a Kierkegaard bell within me,
 
-> "*When the question of truth is put forward in an objective manner,
+> "_When the question of truth is put forward in an objective manner,
 > reflection is directed objectively to the truth as an object to which the
 > knower is related. The reflection is not on the relationship but on whether
 > he is related to the truth. If that which he is related to is the truth, the
 > subject is in truth. When the question of truth is put forward in a
 > subjective manner, reflection is directed subjectively on the individual's
 > relationship. If the relation's **HOW** is in truth, the individual is in
-> truth. even if the **WHAT** to which he is related is not true.*" (Oaklander
-> 16)
+> truth. even if the **WHAT** to which he is related is not true._" (Oaklander 16)
 
 That's a doozy, let's break it down a little,
 
 What Kierkegaard was talking about here is the difference between how we talk
 about truth. Say you know a guy called Stewie. On the one hand, you can talk
-about Stewie in an *objective* manner, that he's a person, he exists, he has a
+about Stewie in an _objective_ manner, that he's a person, he exists, he has a
 family, he works in sales, etc. Stewie may or may not be a real person and your
 sanity may be in question whether he's a real or imaginary friend of yours. If
-Stewie is a real person and he exists—*objectively speaking*—you are in truth. 
+Stewie is a real person and he exists—_objectively speaking_—you are in truth.
 
-On the other hand, talking about Stewie in a *subjective* manner, requires you
-to talk about *your subjective experience of him*. Your stories of your
+On the other hand, talking about Stewie in a _subjective_ manner, requires you
+to talk about _your subjective experience of him_. Your stories of your
 interactions with him, your thoughts on his personality, him as a person, how
 his demeanor and behaviour have affected you, and maybe how you're going to
 invite Stewie to your wedding because he's such a stand-up guy. In this case,
 regardless of whether Stewie does or does not exist, real or imaginary friend,
-you are in truth because of *how you relate to him*.
+you are in truth because of _how you relate to him_.
 
-You're free to substitute Stewie with whatever or whomever comes to mind. 
+You're free to substitute Stewie with whatever or whomever comes to mind.
 
 We know from [addiction psychology](https://youtu.be/sc3ycMvyuoo?si=IOW81gIv12SAyZfZ&t=1023) that what
-yields clinical benefit is the *presence* of a consistent internal belief
-system, *irrespective* of the God or gods you pray to.
-
+yields clinical benefit is the _presence_ of a consistent internal belief
+system, _irrespective_ of the God or gods you pray to.
 
 In other, more literal and perhaps controversial, words: Who cares if God
 actually exists or not? Who cares if there is a one true God or multiple gods?
 Does knowing this truth help me get out of bed in the morning? Buy my
 groceries? Do my laundry? Write my next article? Debug my code that's breaking?
-You get the point, the question is *existentially irrelevant*, it doesn't help
+You get the point, the question is _existentially irrelevant_, it doesn't help
 point us back to our own subjectivity and remind us that each and every one of
-us is an existing, living human being. 
+us is an existing, living human being.
 
-This is why I believe that it's all about attitudes, the *how* in which we
+This is why I believe that it's all about attitudes, the _how_ in which we
 relate to that something that counts as the truth. From Kierkegaard's
 "Concluding Unscientific Postscript",
 
@@ -309,7 +301,7 @@ relate to that something that counts as the truth. From Kierkegaard's
 > prays with the total passion of the infinite, although his eyes rest on the
 > image of an idol; where is there most truth? The one prays in truth to God,
 > although he worships an idol. The other prays in untruth to the true God and
-> therefore really worships an idol (Oaklander 17)." 
+> therefore really worships an idol (Oaklander 17)."
 
 Bars.
 
@@ -320,16 +312,16 @@ relative shapes and sizes. Maybe some of us are still in it. I'm not here to
 compare whose suffering is greater or lesser. In the search for clarity and
 solace, maybe some of us leaned into religion, others into philosophy to seek
 salvation. Some never found it and continue to distract themselves with
-dopaminergic activities. 
+dopaminergic activities.
 
 In this part, I want to talk about the answers out there, what I have come to,
-and what works for me. 
+and what works for me.
 
 ### Meaning is overrated
 
 You're sitting in your chair in the first morning of winter, a hot cup of tea
 in your hand. You might savor it, you may take your time with it, but you don't
-stop to calculate what it *means*, it's just tea. Imagine making meaning out of
+stop to calculate what it _means_, it's just tea. Imagine making meaning out of
 every single waking moment. That's how you get the efficiency and productivity
 influencers you see on Instagram. Probably with some self-talk of, "this gym
 session? it's proof of my growth," "this yoga session? I'm slowly becoming one
@@ -344,7 +336,7 @@ inspired by this article I read. I need to write my own article, it's gonna be
 great. My first article is gonna be so good." Attachments—good or
 bad—weigh us down and make it harder to navigate through life.
 
-We're told everywhere that life should be "*meaningful*." But imagine trying to
+We're told everywhere that life should be "_meaningful_." But imagine trying to
 squeeze meaning out of every moment — "this tea is symbolic of my resilience,"
 "this walk is proof of my growth," "this article will define me forever."
 That's not enlightenment, that's neurosis. It's like stuffing your inbox with
@@ -360,13 +352,13 @@ vast expanse of white. Not a meaning in sight, your mind is calm and you feel
 the warmth of the mug suffuse your body through the palm of your hands. You
 take a small sip and gently set it down on the coffee table next to you.
 
-*That* is meaninglessness. Beautiful, isn't it? Feels... lightweight. Because
+_That_ is meaninglessness. Beautiful, isn't it? Feels... lightweight. Because
 there's no attachment to any one particular thing, you have the freedom to move
 from one space to another. Life becomes easier to navigate. And I can sit here
 and yap to you aboout all the times I've felt this serenity, so much so that I
 was pretty much okay with dying on the spot. But to understand it, you'd have
 to experience it for yourself. Those of you who've meditated in that space or
-have been on retreats will know what I'm talking about. 
+have been on retreats will know what I'm talking about.
 
 I had this experience when I was simply lying on the bed, mind racing hundreds
 of miles a minute with anxious, depressive, and suicidal thoughts. To be
@@ -389,19 +381,19 @@ meaningless compared to everything else — I was deeply in awe of the universe
 and just happy to be here.
 
 Then, life zoomed back in 5 minutes later, smacked me in the back of my head. I
-was back with my anxious thoughts. 
+was back with my anxious thoughts.
 
 Maybe it was dissociation? My brain thought that we're in so much danger that
 it just peaced out for a moment, maybe it was an automatic defense mechanism my
 mind deployed because the stress was too much, who knows. I concede this may
 just be copium to the fact that the universe is meaningless and indifferent, a
-strategy to deal with too much anxiety and stress. 
+strategy to deal with too much anxiety and stress.
 
 However, after subjectively experiencing being thrown into space, I can't just
 ignore this and go back to the way I was before. It taught me that having some
 meaninglessness baked into the routine of everyday life is pretty important,
 having a space of nothing in-between is indispensable. After all, what is music
-if it just kept droning on and on without any pause or break? 
+if it just kept droning on and on without any pause or break?
 
 Thus, we get to how the "the universe is ultimately meaningless" point of view,
 pointed me to the "meaning" of life (or at least my life),
@@ -410,7 +402,7 @@ pointed me to the "meaning" of life (or at least my life),
 
 > ["Most Men Who Take Their Life Had No History Of Mental Illness" — Dr. K](https://youtu.be/COH2xBqZfZo?si=H94t40b2NtjhrTYp&t=9)
 
-I've lived through [Perceived Burdensomeness and Thwarted Belongingness](https://pmc.ncbi.nlm.nih.gov/articles/PMC3377972/). 
+I've lived through [Perceived Burdensomeness and Thwarted Belongingness](https://pmc.ncbi.nlm.nih.gov/articles/PMC3377972/).
 
 Bluntly, it sucks. Feeling like you're nothing but a living burden to your
 loved ones, trying your best to fit in but not given the space to, or just the
@@ -418,20 +410,20 @@ people around you lacking the openness and vulnerability required to talk about
 these subjects which makes you feel even worse because you're gaslit into
 thinking maybe you're the problem. Some days, my mind found it very logical to
 conclude that "the world and everyone around you is just better off without
-you". 
+you".
 
 > [!TIP]+
-> 
+>
 > Big tip, when you're talking to someone suicidal, don't say, "But you've got
 > so much to live for!" Great way to invalidate their thoughts and feelings
-> when they're already in a terrible headspace. 
+> when they're already in a terrible headspace.
 
 Awakening to the fact that the universe is ultimately meaningless didn't help
 either, you can imagine the despair and hopelessness it brought in addition to
-the other psychological debuffs. 
+the other psychological debuffs.
 
 The following passage from ["The Gay Science", section 125, by Nietzsche](https://www.markandrewholmes.com/godisdead.html), really hits home
-for me in terms of the feelings and imagery it evokes, 
+for me in terms of the feelings and imagery it evokes,
 
 > "... What did we do when we unchained this earth from its sun? Where is it
 > moving now? Where are we moving now? Away from all suns? Aren't we
@@ -472,11 +464,11 @@ Camus addresses this "death of God" directly in his works,
 The tension has always been between the relationship of our brain being a
 pattern-matching, meaning-making machine and the indifferent world that just
 wouldn't reply to our queries. It's like getting ghosted by your crush everyday
-of your miserable life... No wonder we get traumatized by life. 
+of your miserable life... No wonder we get traumatized by life.
 
 Camus' a bro though, he helps out and talks us through it because he himself
 struggled through feelings of guilt and depression. He says, once you recognize
-this *absurdity*, he lays down a couple of options as a path to move forward, 
+this _absurdity_, he lays down a couple of options as a path to move forward,
 
 1. **Suicide** — Reject life because it has no meaning (he no like this)
 2. **Philosophical suicide** — Take a leap of faith into some absolute meaning
@@ -489,10 +481,10 @@ until the day of reckoning. Fuck meaning. Fuck meaninglessness. I'm an
 existing, living human being filled with contradictions, so be it. I'm
 insecure, anxious, suicidal and also filled with energy, inspiration, and
 excitement. There's no need to lean into the fullness of meaning nor fall into
-the void of meaninglessness. Live fully *in spite* of the absurd, don't give
+the void of meaninglessness. Live fully _in spite_ of the absurd, don't give
 into despair nor lie to yourself with false certainties. Create your own
 meaning (or don't) through living, experiencing, and engaging in life without
-expecting any oustide source to validate it. 
+expecting any oustide source to validate it.
 
 This was it. I'd finally found what I'd been looking for. Goosebumps, all
 around. It's one helluva wake up call. There's a certain rebelliousness to this
@@ -503,7 +495,7 @@ there had never a point in my life up 'til then where this would have been
 relevant to me. Taken out of context, it sounds pointless, meaningless, trite.
 In context, poignant and life-changing.
 
-I found Camus' *revolt* rejuvenating. It's how I choose to interpret,
+I found Camus' _revolt_ rejuvenating. It's how I choose to interpret,
 
 > "Existence Precedes Essence" — Jean-Paul Sartre
 
@@ -527,11 +519,11 @@ of self-discovery—the microscopes and telescopes for subjectivity—available 
 us for free. It's like open-source for self-development! Perhaps those yogis
 from the days of yore were the first devs to ever grace our land.
 
-> [!NOTE]+ Collective Unconscious == Self-Development Github  
-> 
+> [!NOTE]+ Collective Unconscious == Self-Development Github
+>
 > When you think about it, the collective unconscious is really just Github for
 > consciousness. We `git push` and share our ideas to public repos, then fork
-> and clone any packages we find helpful or interesting. 
+> and clone any packages we find helpful or interesting.
 >
 > Meditation and reflection is our `git` and how we do version control for
 > different iterations of ourselves.
@@ -542,9 +534,8 @@ from the days of yore were the first devs to ever grace our land.
 
 I'm so glad they didn't hide it behind a paywall, although I guess they did
 hide it behind a gacha-wall because you still have to spend time and attention
-to meditate, then you *might* reach enlightenment. Maybe the scam of a
+to meditate, then you _might_ reach enlightenment. Maybe the scam of a
 lifetime, no... multiple lifetimes.
 
 Anyways, if you're in need, I hope this can help point you in the right
-direction. 
-
+direction.

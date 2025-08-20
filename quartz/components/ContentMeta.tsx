@@ -36,7 +36,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
             locale={cfg.locale}
             datetype="created"
             displayTime
-          />
+          />,
         )
         segments.push(
           <Date
@@ -44,7 +44,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
             locale={cfg.locale}
             datetype="modified"
             displayTime
-          />
+          />,
         )
       }
 
@@ -58,7 +58,10 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       }
 
       return (
-        <sub show-comma={options.showComma} class={classNames(displayClass, "content-meta", "secondary")}>
+        <sub
+          show-comma={options.showComma}
+          class={classNames(displayClass, "content-meta", "secondary")}
+        >
           {segments}
         </sub>
       )

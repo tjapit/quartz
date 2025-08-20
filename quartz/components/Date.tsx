@@ -11,7 +11,11 @@ interface Props {
 
 export type ValidDateType = keyof Required<QuartzPluginData>["dates"]
 
-export function getDate(cfg: GlobalConfiguration, data: QuartzPluginData, datetype?: ValidDateType): Date | undefined {
+export function getDate(
+  cfg: GlobalConfiguration,
+  data: QuartzPluginData,
+  datetype?: ValidDateType,
+): Date | undefined {
   if (datetype) {
     return data.dates?.[datetype]
   }
@@ -24,7 +28,11 @@ export function getDate(cfg: GlobalConfiguration, data: QuartzPluginData, datety
   return data.dates?.[cfg.defaultDateType]
 }
 
-export function formatDate(d: Date, locale: ValidLocale = "en-GB", displayTime: boolean = false): string {
+export function formatDate(
+  d: Date,
+  locale: ValidLocale = "en-GB",
+  displayTime: boolean = false,
+): string {
   const defaultFormat: Intl.DateTimeFormatOptions = {
     year: "numeric",
     month: "short",
@@ -42,9 +50,7 @@ export function formatDate(d: Date, locale: ValidLocale = "en-GB", displayTime: 
 export function Date({ date, locale, datetype, displayTime }: Props) {
   return (
     <time datetime={date.toISOString()}>
-      {
-        datetype && `${datetype.charAt(0).toLocaleUpperCase() + datetype.substring(1)} `
-      }
+      {datetype && `${datetype.charAt(0).toLocaleUpperCase() + datetype.substring(1)} `}
       {formatDate(date, locale, displayTime)}
     </time>
   )

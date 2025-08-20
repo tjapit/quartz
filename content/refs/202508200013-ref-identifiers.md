@@ -11,7 +11,7 @@ type: ref
 
 Because we're doing more and more research, the need for quick identification
 of references arose. I want to be able to tell at a glance what the reference
-is, whether it be a video, internal/external link, etc. 
+is, whether it be a video, internal/external link, etc.
 
 This is the definitive list for the emoji/icon used to ID links and refs,
 
@@ -24,5 +24,4 @@ This is the definitive list for the emoji/icon used to ID links and refs,
 - ▶️ — Videos
 - 🎙️ — Podcasts
 
-I'll leave this open as an ever-growing, changing list. 
-
+I'll leave this open as an ever-growing, changing list.

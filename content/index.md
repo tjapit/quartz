@@ -1,10 +1,10 @@
 ---
 title: 🌱 Hi! I'm Tim. Welcome!
 created: 2025-08-18 03:02
-modified: 2025-08-19 23:08
+modified: 2025-08-20 18:53
 ---
 
-> Digital gardening because real gardening requires me to touch grass. 
+> Digital gardening because real gardening requires me to touch grass.
 
 ## ⌘ Places of interest
 
@@ -18,26 +18,27 @@ modified: 2025-08-19 23:08
 ## 🔥 Inspirations
 
 - [💚 YouTube — HealthyGamerGG](https://www.youtube.com/@HealthyGamerGG)
-    - One of the single-handedly, most influential YouTube channels in my life
-    - Taught me how to learn my [[20240317140859-neovim-and-invoker|keyboard shortcuts]] and play the game of life
+  - One of the single-handedly, most influential YouTube channels in my life
+  - Taught me how to learn my [[20240317140859-neovim-and-invoker|keyboard shortcuts]] and play the game of life
 - 📖 Oaklander, L. Nathan. Existentialist philosophy: An introduction. Prentice
-Hall, 1992.
-    - Great book that introduced me to Existentialism; it's stayed with me
+  Hall, 1992. - Great book that introduced me to Existentialism; it's stayed with me
 - [📋 josebrowne — On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
-    - On aikido-ing the mind to do what you want to do
-    - Fun fact, this article was also what triggered me to start this site
+  - On aikido-ing the mind to do what you want to do
+  - Fun fact, this article was also what triggered me to start this site
 - [🌐 Quartz – Showcase](https://quartz.jzhao.xyz/showcase)
-    - Collections of awesome Quartz sites
+  - Collections of awesome Quartz sites
 - [📋 Quartz — A garden should be your own](https://quartz.jzhao.xyz/philosophy#a-garden-should-be-your-own)
-    - Philosophy on having a digital garden of your own
-- [🌐 Eilleen's Everything Notebook — Quartz customization log](https://quartz.eilleeenz.com/Quartz-customization-log)
-    - I really love how they've custom-styled their callouts
-    - Also, the created and modified meta inspired me to modify my own
+  - Philosophy on having a digital garden of your own
+- [🌐 Eilleen's Everything Notebook](https://quartz.eilleeenz.com/)
+  - Their created and modified meta inspired me to modify my own
 
 ## 🌇 On the horizon
 
 - [🌐 itch.io — HG-GJ: The HealthyGamer Game Jam](https://itch.io/jam/hg-gj)
-
+- Next and previous buttons + footnote references after the body. Inspirations,
+  - [[202508201325-cool-quartz-next-button|cool quartz next button]] ← [🌐 ericdarve — CME 302 Numerical Linear Algebra](https://ericdarve.github.io/NLA/content/intro.html)
+  - [[202508201326-quartz:-next-and-previous|Quartz: Next and Previous]] ← [📋 Quartz — Creating your own Quartz components](https://quartz.jzhao.xyz/advanced/creating-components)
+  - [[202508201549-log:-quartz|Log: Quartz]] ← [📋 Eilleen's Everything Notebook — Quartz customization log](https://quartz.eilleeenz.com/Quartz-customization-log)
 
 ## 🗣️ Yap
 
@@ -47,23 +48,22 @@ Did you know that the Mac's Command symbol (⌘) is called [Place of Interest Si
 ![place-of-interest.png](assets/place-of-interest.png)
 
 I didn't either until I tried to find it because I wanted to write it out to
-explain that `<⌘-Backtick>` is,  
+explain that `<⌘-Backtick>` is,
 
-- the reverse of `<⌘-Tab>` when you're already in the window picker popup, 
+- the reverse of `<⌘-Tab>` when you're already in the window picker popup,
 - also, it's how you can shift between multiple windows of the same app.
 
 Pretty cool, right? Have I mentioned [[20240317140859-neovim-and-invoker|my love for keyboard shortcuts]]?
 
-Also, 
+Also,
 
 ```
-                 ███▄▄▄▄      ▄████████  ▄██████▄   ▄█    █▄   ▄█    ▄▄▄▄███▄▄▄▄   
-                 ███▀▀▀██▄   ███    ███ ███    ███ ███    ███ ███  ▄██▀▀▀███▀▀▀██▄ 
-                 ███   ███   ███    █▀  ███    ███ ███    ███ ███▌ ███   ███   ███ 
-                 ███   ███  ▄███▄▄▄     ███    ███ ███    ███ ███▌ ███   ███   ███ 
-                 ███   ███ ▀▀███▀▀▀     ███    ███ ███    ███ ███▌ ███   ███   ███ 
-                 ███   ███   ███    █▄  ███    ███ ███    ███ ███  ███   ███   ███ 
-                 ███   ███   ███    ███ ███    ███ ███    ███ ███  ███   ███   ███ 
+                 ███▄▄▄▄      ▄████████  ▄██████▄   ▄█    █▄   ▄█    ▄▄▄▄███▄▄▄▄
+                 ███▀▀▀██▄   ███    ███ ███    ███ ███    ███ ███  ▄██▀▀▀███▀▀▀██▄
+                 ███   ███   ███    █▀  ███    ███ ███    ███ ███▌ ███   ███   ███
+                 ███   ███  ▄███▄▄▄     ███    ███ ███    ███ ███▌ ███   ███   ███
+                 ███   ███ ▀▀███▀▀▀     ███    ███ ███    ███ ███▌ ███   ███   ███
+                 ███   ███   ███    █▄  ███    ███ ███    ███ ███  ███   ███   ███
+                 ███   ███   ███    ███ ███    ███ ███    ███ ███  ███   ███   ███
                   ▀█   █▀    ██████████  ▀██████▀   ▀██████▀  █▀    ▀█   ███   █▀  , btw
 ```
-

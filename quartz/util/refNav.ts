@@ -1,5 +1,5 @@
-import { Data } from "vfile";
-import { RefType } from "../components/FooterRef";
+import { Data } from "vfile"
+import { RefType } from "../components/FooterRef"
 
 export function getRefNavs(refType: RefType, fileData: Data, allFiles: Data[]): Data[] {
   const frontmatter = fileData.frontmatter
@@ -8,33 +8,36 @@ export function getRefNavs(refType: RefType, fileData: Data, allFiles: Data[]): 
   const footerRefs = frontmatter[refType]
   if (!footerRefs || footerRefs.length < 0) return []
 
-  return footerRefs.map(footerRef => {
-    const refFile = allFiles.find(f => footerRef.includes(f.frontmatter?.id!))
-    if (!refFile) return footerRef
-    return refFile
-  })
-    .filter(f => {
-      if (typeof f === "string") return f !== "[[]]"
-      return true
-    })
-    // map strings
-    .map(f => {
-      if (typeof f !== "string") return f
+  return (
+    footerRefs
+      .map((footerRef) => {
+        const refFile = allFiles.find((f) => footerRef.includes(f.frontmatter?.id!))
+        if (!refFile) return footerRef
+        return refFile
+      })
+      .filter((f) => {
+        if (typeof f === "string") return f !== "[[]]"
+        return true
+      })
+      // map strings
+      .map((f) => {
+        if (typeof f !== "string") return f
 
-      const externalRef = extractLink(f)
-      if (!externalRef) {
-        return {
-          externalRef: {
-            alias: f
+        const externalRef = extractLink(f)
+        if (!externalRef) {
+          return {
+            externalRef: {
+              alias: f,
+            },
           }
         }
-      }
 
-      return { externalRef }
-    })
+        return { externalRef }
+      })
+  )
 }
 
-function extractLink(link: string): { alias: string, href: string } | undefined {
+function extractLink(link: string): { alias: string; href: string } | undefined {
   const aliasStart = link.indexOf("[") + 1
   const aliasEnd = link.lastIndexOf("]")
   const hrefStart = link.lastIndexOf("(") + 1

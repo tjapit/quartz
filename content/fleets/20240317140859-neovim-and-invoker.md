@@ -6,7 +6,7 @@ tags:
   - fleet
   - invoker
   - DotA
-next: 
+next:
   - "[[20240317141610-the-leader-control-system|The Leader-Control System]]"
 created: 2024-03-17T14:08
 title: neovim and invoker
@@ -14,7 +14,7 @@ type: fleet
 ---
 
 > [!WARNING]+
-> 
+>
 > Very [chuuni](https://en.wikipedia.org/wiki/Ch%C5%ABniby%C5%8D)
 
 Finally connected the dots one day on why I liked keyboard shortcuts so much.
@@ -29,4 +29,3 @@ For Invoker it's Quas, Wex, Exort.
 For me it's [Vim Motions](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/) and the new keymap system I just built from the ground up as an extension of `obsidian.nvim`: [[20240317141610-the-leader-control-system|The Leader-Control System]].
 
 source: me
-

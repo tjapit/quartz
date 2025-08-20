@@ -17,11 +17,8 @@ title: cool quartz next button
 type: fleet
 ---
 
-# cool quartz next button
-
 Inspired by [🌐 ericdarve — CME 302 Numerical Linear
 Algebra](https://ericdarve.github.io/NLA/content/intro.html), I really want the
-Next and Previous button after the body. 
+Next and Previous button after the body.
 
 I wonder if I can do that in `quartz`?
-
