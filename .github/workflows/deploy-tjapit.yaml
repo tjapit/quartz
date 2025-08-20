@@ -45,7 +45,7 @@ jobs:
           username: tim
           key: ${{ secrets.QUARTZ_SSH_KEY }}
           source: "public/*"
-          target: "/home/tim/quartz/public"
+          target: "/home/tim/quartz/"
           rm: true
 
       - name: Reload Nginx
@@ -54,4 +54,6 @@ jobs:
           host: ${{ secrets.QUARTZ_HOST }}
           username: tim
           key: ${{ secrets.QUARTZ_SSH_KEY }}
-          script: sudo systemctl reload nginx
+          script: |
+            whoami
+            sudo systemctl reload nginx
