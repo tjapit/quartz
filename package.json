@@ -13,7 +13,7 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "dev": "nodemon --watch quartz --watch quartz.config.ts --ext ts,tsx,js,json,scss --exec \"npx quartz build --serve\"",
+    "dev": "nodemon --watch quartz --watch \"quartz.*.ts\" --ext ts,tsx,js,json,scss --exec \"npx quartz build --serve\"",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",

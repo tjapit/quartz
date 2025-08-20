@@ -8,7 +8,6 @@ tags:
   - DotA
 next: 
   - "[[20240317141610-the-leader-control-system|The Leader-Control System]]"
-  - "[[202508200013-ref-identifiers|📝 Context]]"
 created: 2024-03-17T14:08
 title: neovim and invoker
 type: fleet
