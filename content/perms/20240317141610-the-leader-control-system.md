@@ -1,12 +1,12 @@
 ---
 id: 20240317141610-the-leader-control-system
 aliases:
-    - The Leader-Control System
+  - The Leader-Control System
 tags:
-    - perm
-    - leader-control
-    - neovim
-    - obsidian.nvim
+  - perm
+  - leader-control
+  - neovim
+  - obsidian.nvim
 created: 2024-03-17T14:16
 modified: 2025-08-20 02:06
 prev:
@@ -37,7 +37,7 @@ months
 old](https://www.youtube.com/watch?v=5ht8NYkU9wQ&ab_channel=DevOpsToolbox) at
 the time I started this whole Zettelkasten.
 
-But boy, oh boy, have I been missing out. *I can Obsidian within Neovim*. That's
+But boy, oh boy, have I been missing out. _I can Obsidian within Neovim_. That's
 the long and short of it. Combine it with something like a
 [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim?tab=readme-ov-file#--markdown-preview-for-neovim--)
 and it becomes one of the most amazing plugins only rivalled by [teej's
