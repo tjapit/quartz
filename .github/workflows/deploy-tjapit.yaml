@@ -3,7 +3,7 @@ name: Deploy Quartz
 on:
   push:
     branches:
-      - v4   # or your default branch
+      - v4 # or your default branch
 
 jobs:
   build-and-deploy:
@@ -31,7 +31,6 @@ jobs:
           v=$(npm --version)
           printf "npm version: %s\n" "$v"
           npx semver -r ">=10.9.2" "$v" || (echo "❌ npm too old" && exit 1)
-
 
       - name: Install dependencies
         run: npm ci
