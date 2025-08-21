@@ -5,6 +5,7 @@ aliases:
 tags:
   - ref
 created: 2025-08-20T00:13
+modified: 2025-08-21 16:56
 title: Ref Identifiers
 type: ref
 ---
@@ -15,13 +16,13 @@ is, whether it be a video, internal/external link, etc.
 
 This is the definitive list for the emoji/icon used to ID links and refs,
 
-- 🌐 — Misc./external links
+- 🌐 — Misc./external links/external wikis
 - 📁 — Folders
 - 📝 — Internal links
 - 📋 — Articles
 - 📄 — Whitepapers
 - 📖 — Books
 - ▶️ — Videos
-- 🎙️ — Podcasts
+- 🎙️ — Podcasts/Lectures/Professional Yappers
 
 I'll leave this open as an ever-growing, changing list.
