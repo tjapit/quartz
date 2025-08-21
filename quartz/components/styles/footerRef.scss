@@ -1,3 +1,38 @@
+$btn-padding: 16px;
+$btn-border: 1px solid var(--lightgray);
+$btn-radius: 16px;
+$btn-width: 240px;
+
 .footer-ref {
   display: flex;
+
+  .ref-nav {
+    width: $btn-width;
+    padding: $btn-padding;
+    border: $btn-border;
+    background-color: var(--highlight);
+    border-radius: $btn-radius;
+
+    li {
+      list-style-type: none;
+    }
+
+    .title {
+      margin: 0;
+      margin-bottom: 4px;
+      font-family: var(--headerFont);
+    }
+
+    &:hover {
+      background-color: var(--light);
+      border-color: var(--dark);
+      transform: scale(1.05);
+      cursor: pointer;
+      transition: all 0.5s;
+    }
+
+    &.next {
+      margin-left: auto;
+    }
+  }
 }
