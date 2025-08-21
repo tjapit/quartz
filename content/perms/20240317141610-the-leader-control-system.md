@@ -8,7 +8,6 @@ tags:
   - neovim
   - obsidian.nvim
 created: 2024-03-17T14:16
-modified: 2025-08-20 02:06
 prev:
   - "[[20240317140859-neovim-and-invoker|neovim and invoker]]"
 title: The Leader-Control System

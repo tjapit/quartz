@@ -8,6 +8,20 @@ tags:
   - article
 created: 2025-08-18 00:57
 modified: 2025-08-19 23:07
+ref:
+  - "[📋 josebrowne — On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)"
+  - "[📋 buttondown — Advice for new software devs who've read all those other advice essays](https://buttondown.com/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)"
+  - "📖 Oaklander, L. Nathan. Existentialist philosophy: An introduction. Prentice Hall, 1992."
+  - "[▶️ HealthyGamerGG — How Religion Affects Your Mental Health](https://www.youtube.com/watch?v=sc3ycMvyuoo&t=979s)"
+  - "[🌐 Wikipedia — Anussati](https://arc.net/l/quote/hjlyntbb)"
+  - "[▶️ HealthyGamerGG — The Difference Between Belief and Knowledge](https://www.youtube.com/shorts/6Ux2U-AJp3E)"
+  - "[▶️ HealthyGamerGG — Is Your Mind Functioning Properly?](https://www.youtube.com/shorts/icfI_iVLeRs)"
+  - "[▶️ CGP Grey — Metric Paper...](https://www.youtube.com/watch?v=pUF5esTscZI)"
+  - "[▶️ Aba N Preach — \"Most Men Who Take Their Life Had No History Of Mental Illness\" — Dr K](https://youtu.be/COH2xBqZfZo?si=H94t40b2NtjhrTYp&t=9)"
+  - "[📄 Van Orden, Kimberly A et al. “Thwarted belongingness and perceived burdensomeness: construct validity and psychometric properties of the Interpersonal Needs Questionnaire.” Psychological assessment vol. 24,1 (2012): 197-215. doi:10.1037/a0025358](https://pmc.ncbi.nlm.nih.gov/articles/PMC3377972/)"
+  - "[📋 Friedrich Wilhelm Nietzsche — The Gay Science, Section 125: The Madman](https://www.markandrewholmes.com/godisdead.html)"
+  - "[📋 Quote Investigator — Quote Origin: The Past Is History. The Future Is a Mystery. Today Is a Gift. That's Why It's Called the Present](https://quoteinvestigator.com/2023/07/26/past-history/)"
+  - "[▶️ Riifushi — So Nobody Taught You How to Be An Adult Too?](https://youtu.be/6HsGfJn90bo?si=4mPghj4SOk5fncC2&t=482)"
 title: On Subjectivity
 type: perm
 ---
@@ -19,22 +33,6 @@ type: perm
 > Mentions of suicidality because Existentialism.
 >
 > Also, if anything reads awkward, I'm ESL.
-
-> [!INFO]- REF
->
-> - [📋 josebrowne — On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
-> - [📋 buttondown — Advice for new software devs who've read all those other advice essays](https://buttondown.com/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
-> - 📖 Oaklander, L. Nathan. Existentialist philosophy: An introduction. Prentice Hall, 1992.
-> - [▶️ HealthyGamerGG — How Religion Affects Your Mental Health](https://www.youtube.com/watch?v=sc3ycMvyuoo&t=979s)
-> - [🌐 Wikipedia — Anussati](https://arc.net/l/quote/hjlyntbb)
-> - [▶️ HealthyGamerGG — The Difference Between Belief and Knowledge](https://www.youtube.com/shorts/6Ux2U-AJp3E)
-> - [▶️ HealthyGamerGG — Is Your Mind Functioning Properly?](https://www.youtube.com/shorts/icfI_iVLeRs)
-> - [▶️ CGP Grey — Metric Paper...](https://www.youtube.com/watch?v=pUF5esTscZI)
-> - [▶️ Aba N Preach — \Most Men Who Take Their Life Had No History Of Mental Illness\ — Dr K](https://youtu.be/COH2xBqZfZo?si=H94t40b2NtjhrTYp&t=9)
-> - 📄 Van Orden, Kimberly A et al. “Thwarted belongingness and perceived burdensomeness: construct validity and psychometric properties of the Interpersonal Needs Questionnaire.” Psychological assessment vol. 24,1 (2012): 197-215. [doi:10.1037/a0025358](https://pmc.ncbi.nlm.nih.gov/articles/PMC3377972/)
-> - [📋 Friedrich Wilhelm Nietzsche — The Gay Science, Section 125: The Madman](https://www.markandrewholmes.com/godisdead.html)
-> - [📋 Quote Investigator — Quote Origin: The Past Is History. The Future Is a Mystery. Today Is a Gift. That's Why It's Called the Present](https://quoteinvestigator.com/2023/07/26/past-history/)
-> - [▶️ Riifushi — So Nobody Taught You How to Be An Adult Too?](https://youtu.be/6HsGfJn90bo?si=4mPghj4SOk5fncC2&t=482)
 
 I'd been rereading a book on Existentialism, L. Nathan Oaklander's
 "Existentialist Philosophy: An Introdduction", which I read a couple years back
