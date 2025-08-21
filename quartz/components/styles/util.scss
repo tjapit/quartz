@@ -1,5 +1,18 @@
-.mt-0 {
-  margin-top: 0;
+/* spacers */
+@for $i from 0 through 20 {
+  @if $i % 2 == 0 {
+    .mt-#{$i} {
+      margin-top: #{$i}px;
+    }
+    .gap-#{$i} {
+      gap: #{$i}px;
+    }
+  }
+}
+
+/* layout  */
+.inline {
+  display: inline;
 }
 
 .flex {
@@ -18,6 +31,11 @@
   justify-content: space-evenly;
 }
 
+.items-center {
+  align-items: center;
+}
+
+/* text */
 .text-center {
   text-align: center;
 }
@@ -34,6 +52,13 @@
   font-weight: bold;
 }
 
+.truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* colors */
 .primary {
   color: var(--dark);
 }
@@ -45,3 +70,27 @@
 .tertiary {
   color: var(--tertiary);
 }
+
+/* animation */
+.animate-bounce {
+  animation: bounce 1s infinite;
+
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(-25%);
+      animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+    }
+    50% {
+      transform: none;
+      animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    }
+  }
+}
+
+/* misc. */
+.keymap {
+  padding: 4px 6px;
+  background-color: var(--lightgray);
+  border-radius: 4px;
+}
+

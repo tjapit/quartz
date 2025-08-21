@@ -55,5 +55,4 @@ jobs:
           username: tim
           key: ${{ secrets.QUARTZ_SSH_KEY }}
           script: |
-            whoami
             sudo systemctl reload nginx

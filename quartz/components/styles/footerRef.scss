@@ -2,16 +2,26 @@ $btn-padding: 16px;
 $btn-border: 1px solid var(--lightgray);
 $btn-radius: 16px;
 $btn-width: 240px;
+$source-border-width: 2px;
+$source-border: $source-border-width solid var(--dark);
+$source-border-hover: calc(4 * $source-border-width);
+$source-width: 100px;
+$source-width-hover: 500px;
 
 .footer-ref {
-  display: flex;
+  nav {
+    display: flex;
+    justify-content: space-between;
+  }
 
   .ref-nav {
+    overflow: hidden;
     width: $btn-width;
     padding: $btn-padding;
     border: $btn-border;
     background-color: var(--highlight);
     border-radius: $btn-radius;
+    transition: all 0.5s ease;
 
     li {
       list-style-type: none;
@@ -28,11 +38,48 @@ $btn-width: 240px;
       border-color: var(--dark);
       transform: scale(1.05);
       cursor: pointer;
-      transition: all 0.5s;
     }
 
     &.next {
       margin-left: auto;
+    }
+
+    &.source {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      width: $source-width;
+      aspect-ratio: 1;
+      background-color: var(--light);
+      border: $source-border;
+      border-radius: 50%;
+      text-align: center;
+      
+      &:hover {
+        position: fixed;
+        transform: scale(5);
+        width: $source-width-hover;
+        border-width: $source-border-hover;
+        z-index: 20;
+      }
+    }
+  }
+
+  .source-ref {
+    display: flex;
+    justify-content: center;
+  }
+
+  .references {
+    li {
+      list-style-type: "※    "
+    }
+
+    .external::after {
+      content: "🔗";
+      display: inline-block;
+      margin-left: 4px;
+      font-size: 0.8em;
     }
   }
 }

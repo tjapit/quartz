@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.FooterRef()],
+  afterBody: [Component.DesktopOnly(Component.FooterRef())],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/tjapit/quartz",
