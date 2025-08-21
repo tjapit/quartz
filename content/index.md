@@ -34,8 +34,8 @@ modified: 2025-08-22 04:13
 - [💚 YouTube — HealthyGamerGG](https://www.youtube.com/@HealthyGamerGG)
   - One of the single-handedly, most influential YouTube channels in my life
   - Taught me how to learn my [[20240317140859-neovim-and-invoker|keyboard shortcuts]] and play the game of life
-- 📖 Oaklander, L. Nathan. Existentialist philosophy: An introduction. Prentice
-  Hall, 1992. - Great book that introduced me to Existentialism; it's stayed with me
+- 📖 Oaklander, L. Nathan. Existentialist philosophy: An introduction. Prentice Hall, 1992. 
+    - Great book that introduced me to Existentialism; it's stayed with me
 - [📋 josebrowne — On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
   - On aikido-ing the mind to do what you want to do
   - Fun fact, this article was also what triggered me to start this site
