@@ -14,6 +14,10 @@ title: The Leader-Control System
 type: perm
 ---
 
+> [!WARNING]+
+>
+> Very [chuuni](https://en.wikipedia.org/wiki/Ch%C5%ABniby%C5%8D)
+
 ## Background
 
 I should've made a Fleeting Note the moment I had this little nugget. But meh,
