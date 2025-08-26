@@ -1,10 +1,28 @@
 ---
 title: 🌱 Hi! I'm Tim. Welcome!
 created: 2025-08-18 03:02
-modified: 2025-08-22 04:13
+modified: 2025-08-27 02:31
 ---
 
 > *Digital gardening because real gardening requires me to touch grass.*
+
+> [!HELP] New to Zettelkasten? [[202508222156-what-is-a-zettelkasten|Click here to learn more!]]
+
+
+## ✨ What's New?
+
+> *Shiny!*
+
+<div class="flex justify-evenly">
+    <a class="card wide" href="./fleets/202508270050-revisiting-how-i-do-zettelkasten.md">
+        📝 Revisiting how I do Zettelkasten
+        <em class="primary">A rethink of how I approach my Zettelkasten</em>
+    </a>
+    <a class="card wide" href="./lits/202508270106-setting-aside-time-for-depth.md">
+        📝 Setting aside time for depth
+        <em class="primary">Actually sitting down and pausing for a moment</em>
+    </a>
+</div>
 
 ## ⌘ Places of interest
 
@@ -16,42 +34,65 @@ modified: 2025-08-22 04:13
     </div>
 </blockquote>
 
-- [[202508192241-why-i-started-quartz|📝 Why I started Quartz]]
-- [[202508130442-on-subjectivity|📝 The first article on this site]]
-- [[202508200013-ref-identifiers|📝 Why all the emojis?]]
-- [[./fleets|📁 Fleeting notes]]
-- [[./perms|📁 Permanent notes]]
-- [[./refs|📁 Reference notes]]
+<div class="flex justify-evenly">
+    <a class="card tall" href="./fleets/202508192241-why-i-started-quartz.md">
+        📝 Why I started Quartz
+        <em class="primary">Why bother?</em>
+    </a>
+    <a class="card tall" href="./perms/202508130442-on-subjectivity.md">
+        📝 The first article on this site
+        <em class="primary">On Subjectivity</em>
+    </a>
+    <a class="card tall" href="./perms/202508130442-on-subjectivity.md">
+        📝 The first article on this site
+        <em class="primary">On Subjectivity</em>
+    </a>
+</div>
 
-> [!HELP]- New to Zettelkasten?
-> 
-> [Click here to find out more!](https://zettelkasten.de/overview/)
+---
+
+<div class="flex justify-evenly flex-wrap gap-20">
+    <a class="card wide" href="./fleets">
+        📁 Fleeting notes
+        <em class="primary">They come and go, they're fleeting like that</em>
+    </a>
+    <a class="card wide" href="./refs">
+        📁 Reference notes
+        <em class="primary">References</em>
+    </a>
+    <a class="card wide" href="./lits">
+        📁 Literature notes 
+        <em class="primary">My take on other people's works</em>
+    </a>
+    <a class="card wide" href="./perms">
+        📁 Permanent notes
+        <em class="primary">I yap</em>
+    </a>
+</div>
 
 ## 🔥 Inspirations
 
 >  *Sparks that lit the flame under my belly...*
 
-- [💚 YouTube — HealthyGamerGG](https://www.youtube.com/@HealthyGamerGG)
-  - One of the single-handedly, most influential YouTube channels in my life
-  - Taught me how to learn my [[20240317140859-neovim-and-invoker|keyboard shortcuts]] and play the game of life
-- 📖 Oaklander, L. Nathan. Existentialist philosophy: An introduction. Prentice Hall, 1992. 
-    - Great book that introduced me to Existentialism; it's stayed with me
-- [📋 josebrowne — On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
-  - On aikido-ing the mind to do what you want to do
-  - Fun fact, this article was also what triggered me to start this site
-- [🌐 Quartz – Showcase](https://quartz.jzhao.xyz/showcase)
-  - Collections of awesome Quartz sites
-- [📋 Quartz — A garden should be your own](https://quartz.jzhao.xyz/philosophy#a-garden-should-be-your-own)
-  - Philosophy on having a digital garden of your own
-- [🌐 Eilleen's Everything Notebook](https://quartz.eilleeenz.com/)
-  - Their created and modified meta inspired me to modify my own
+[💚 HealthyGamerGG](https://www.youtube.com/@HealthyGamerGG) 
+<br>
+📖 Oaklander, L. Nathan. Existentialist philosophy: An introduction. Prentice Hall, 1992. 
+<br>
+[📋 josebrowne — On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
+<br>
+[🌐 Quartz – Showcase](https://quartz.jzhao.xyz/showcase)
+<br>
+[📋 Quartz — A garden should be your own](https://quartz.jzhao.xyz/philosophy#a-garden-should-be-your-own)
+<br>
+[🌐 Eilleen's Everything Notebook](https://quartz.eilleeenz.com/)
 
 ## 🌇 On the horizon
 
 > *Where the sparks are headed...*
 
 - [🌐 itch.io — HG-GJ: The HealthyGamer Game Jam](https://itch.io/jam/hg-gj)
-- Next and previous buttons + footnote references after the body. Inspirations,
+- 💬 Comments
+- ⏭️ Next and previous buttons + footnote references after the body. Inspirations,
   - [[202508201325-cool-quartz-next-button|cool quartz next button]] ← [🌐 ericdarve — CME 302 Numerical Linear Algebra](https://ericdarve.github.io/NLA/content/intro.html)
   - [[202508201326-quartz:-next-and-previous|Quartz: Next and Previous]] ← [📋 Quartz — Creating your own Quartz components](https://quartz.jzhao.xyz/advanced/creating-components)
   - [[202508201549-log:-quartz|Log: Quartz]] ← [📋 Eilleen's Everything Notebook — Quartz customization log](https://quartz.eilleeenz.com/Quartz-customization-log)

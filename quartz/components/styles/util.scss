@@ -19,6 +19,18 @@
   display: flex;
 }
 
+.flex-col {
+  flex-direction: column;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-half {
+  flex: 0 0 50%;
+}
+
 .justify-center {
   justify-content: center;
 }
@@ -36,6 +48,10 @@
 }
 
 /* text */
+.font-normal {
+  font-weight: normal;
+}
+
 .text-center {
   text-align: center;
 }
@@ -92,5 +108,31 @@
   padding: 4px 6px;
   background-color: var(--lightgray);
   border-radius: 4px;
+}
+
+.card {
+  padding: 1em !important;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: start;
+  border-radius: 1em !important;
+  background-color: var(--highlight) !important;
+  transition: all 0.5s ease;
+
+  &:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+  }
+
+  &.tall {
+    width: 10em;
+    aspect-ratio: 3 / 4;
+  }
+
+  &.wide {
+    width: 16em;
+    aspect-ratio: 2 / 1;
+  }
 }
 
