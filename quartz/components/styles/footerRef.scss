@@ -6,7 +6,6 @@ $source-border-width: 2px;
 $source-border: $source-border-width solid var(--dark);
 $source-border-hover: calc(4 * $source-border-width);
 $source-width: 100px;
-$source-width-hover: 500px;
 
 .footer-ref {
   nav {
@@ -54,13 +53,10 @@ $source-width-hover: 500px;
       border: $source-border;
       border-radius: 50%;
       text-align: center;
+      text-wrap: wrap;
       
       &:hover {
-        position: fixed;
-        transform: scale(5);
-        width: $source-width-hover;
         border-width: $source-border-hover;
-        z-index: 20;
       }
     }
   }

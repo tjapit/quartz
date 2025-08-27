@@ -71,12 +71,24 @@ const RefNav = ({ refType, fileData, allFiles, displayClass }: RefNavProps) => {
           target={link.external ? "_blank" : "_self"}
           rel={link.external ? "noopener" : ""}
         >
-          {link.alias}
+          {refType === NOTE_REFS.source.id ? NOTE_REFS.source.title : link.alias}
+          {link.external && " 🔗"}
         </a> :
           link.alias
       }
     </li>
   ))
+
+  if (refType === NOTE_REFS.source.id) {
+    return (
+      <div
+        class={classNames(displayClass, "ref-nav", ...refClassNames)}
+        data-default-link={links[0].href}
+      >
+        {linkObjects[0]}
+      </div>
+    )
+  }
 
   return refType !== NOTE_REFS.ref.id ? (
     <div
