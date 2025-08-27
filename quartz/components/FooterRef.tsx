@@ -71,8 +71,11 @@ const RefNav = ({ refType, fileData, allFiles, displayClass }: RefNavProps) => {
           target={link.external ? "_blank" : "_self"}
           rel={link.external ? "noopener" : ""}
         >
-          {refType === NOTE_REFS.source.id ? NOTE_REFS.source.title : link.alias}
-          {link.external && " 🔗"}
+          {
+            refType === NOTE_REFS.source.id ?
+              `${NOTE_REFS.source.title} ${link.external ? " 🔗" : ""}`
+              : link.alias
+          }
         </a> :
           link.alias
       }
