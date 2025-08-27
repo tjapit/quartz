@@ -4,8 +4,17 @@ aliases:
   - Ref Identifiers
 tags:
   - ref
+  - legend
 created: 2025-08-20T00:13
 modified: 2025-08-21 16:56
+next:
+  - "[[]]"
+prev:
+  - "[[]]"
+ref:
+  - "[[]]"
+source:
+  - "[[]]"
 title: Ref Identifiers
 type: ref
 ---

@@ -4,6 +4,7 @@ aliases:
   - What is a Zettelkasten
 tags:
   - ref
+  - zettelkasten
 created: 2025-08-22T21:56
 next:
   - "[[]]"

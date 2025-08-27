@@ -4,6 +4,7 @@ aliases:
   - What is Atomicity
 tags:
   - lit
+  - zettelkasten
 created: 2025-08-22T21:41
 next:
   - "[[]]"

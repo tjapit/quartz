@@ -4,6 +4,7 @@ aliases:
   - "Quartz: Next and Previous"
 tags:
   - ref
+  - blueprint
 created: 2025-08-20T13:26
 next:
   - "[[202508201549-log:-quartz|scope creep]]"

@@ -4,6 +4,7 @@ aliases:
   - Externalized Thinking
 tags:
   - lit
+  - zettelkasten
 created: 2025-08-24T00:18
 next:
   - "[[]]"

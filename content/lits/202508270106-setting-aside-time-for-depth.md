@@ -4,6 +4,7 @@ aliases:
   - Setting aside time for depth
 tags:
   - lit
+  - zettelkasten
 created: 2025-08-27T01:06
 next:
   - "[[]]"

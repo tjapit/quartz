@@ -45,12 +45,12 @@ modified: 2025-08-27 02:31
         <em class="primary">Why bother?</em>
     </a>
     <a class="card tall" href="./perms/202508130442-on-subjectivity.md">
-        📝 The first article on this site
+        📝 First article
         <em class="primary">On Subjectivity</em>
     </a>
-    <a class="card tall" href="./perms/202508130442-on-subjectivity.md">
-        📝 The first article on this site
-        <em class="primary">On Subjectivity</em>
+    <a class="card tall" href="./refs/202508200013-ref-identifiers.md">
+        📝 Ref Identifiers
+        <em class="primary">Why all the emojis?</em>
     </a>
 </div>
 

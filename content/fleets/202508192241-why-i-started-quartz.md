@@ -4,8 +4,17 @@ aliases:
   - Why I started Quartz
 tags:
   - fleet
+  - quartz
 created: 2025-08-19 22:41
 modified: 2025-08-19 22:58
+next:
+  - "[[]]"
+prev:
+  - "[[]]"
+ref:
+  - "[[]]"
+source:
+  - "[[]]"
 title: Why I started Quartz
 type: fleet
 ---

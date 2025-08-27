@@ -6,9 +6,16 @@ tags:
   - fleet
   - invoker
   - DotA
+  - neovim
+created: 2024-03-17T14:08
 next:
   - "[[20240317141610-the-leader-control-system|The Leader-Control System]]"
-created: 2024-03-17T14:08
+prev:
+  - "[[]]"
+ref:
+  - "[[]]"
+source:
+  - "[[]]"
 title: neovim and invoker
 type: fleet
 ---

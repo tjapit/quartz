@@ -4,6 +4,7 @@ aliases:
   - cool quartz next button
 tags:
   - fleet
+  - seed
 created: 2025-08-20T13:25
 next:
   - "[[202508201326-quartz:-next-and-previous|Quartz: Next and Previous]]"
