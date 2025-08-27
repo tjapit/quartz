@@ -11,7 +11,7 @@ next:
 prev:
   - "[[]]"
 ref:
-  - "[🌐 ericdarve — CME 302 Numerical Linear Algebra](https://ericdarve.github.io/NLA/content/intro.html)"
+  - "[[]]"
 source:
   - "[[]]"
 title: cool quartz next button

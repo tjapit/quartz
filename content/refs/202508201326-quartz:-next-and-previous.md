@@ -7,13 +7,13 @@ tags:
   - blueprint
 created: 2025-08-20T13:26
 next:
-  - "[[202508201549-log:-quartz|scope creep]]"
+  - "[[202508201549-log:-quartz#next-button|Log: Quartz]]"
 prev:
   - "[[202508201325-cool-quartz-next-button|cool quartz next button]]"
 ref:
   - "[🌐 ericdarve — CME 302 Numerical Linear Algebra](https://ericdarve.github.io/NLA/content/intro.html)"
 source:
-  - "[[202508201325-cool-quartz-next-button|cool quartz next button]]"
+  - "[[]]"
 title: "Quartz: Next and Previous"
 type: ref
 ---

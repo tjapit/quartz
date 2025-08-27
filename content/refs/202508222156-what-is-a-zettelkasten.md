@@ -18,6 +18,24 @@ title: What is a Zettelkasten
 type: ref
 ---
 
+
+> [!HELP]- Want more Zettelkasten? 
+>
+> <blockquote class="mt-16 flex gap-4">
+>     <div class="flex items-center gap-4">
+>         <span class="keymap">⌘</span>
+>         <span class="keymap">Shift</span>
+>         <span class="keymap">K</span>
+>     </div>
+>     or
+>     <div class="flex items-center gap-4">
+>         <span class="keymap">Ctrl</span>
+>         <span class="keymap">Shift</span>
+>         <span class="keymap">K</span>
+>     </div>
+>     <em>— <b>Lookup #zettelkasten</b></em>
+> </blockquote>
+
 Zettelkasten is a thinking environment that uses your externalized thinking
 [^2] to make past thinking efforts available without any surplus effort, so
 that future you can build upon that past work.[^1]

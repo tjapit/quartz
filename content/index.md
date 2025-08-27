@@ -6,12 +6,24 @@ modified: 2025-08-27 02:31
 
 > *Digital gardening because real gardening requires me to touch grass.*
 
-> [!HELP] New to Zettelkasten? [[202508222156-what-is-a-zettelkasten|Click here to learn more!]]
+> [!INFO] New to Zettelkasten? [[202508222156-what-is-a-zettelkasten|Click here to learn more!]]
 
 
 ## ✨ What's New?
 
-> *Shiny!*
+<blockquote class="mt-16 flex gap-4">
+    <em>Shiny! </em>
+    <div class="animate-bounce flex items-center gap-4">
+        <span class="keymap">⌘</span>
+        <span class="keymap">G</span>
+    </div>
+    or
+    <div class="animate-bounce flex items-center gap-4">
+        <span class="keymap">Ctrl</span>
+        <span class="keymap">G</span>
+    </div>
+    <em>— <b>Try me!</b></em>
+</blockquote>
 
 <div class="flex justify-evenly">
     <a class="card wide shine" href="./fleets/202508270050-revisiting-how-i-do-zettelkasten.md">
@@ -27,7 +39,7 @@ modified: 2025-08-27 02:31
 ## ⌘ Places of interest
 
 <blockquote class="mt-16 flex gap-4">
-    <em>Fancy a keyboard shortcut? Search with</em>
+    <em>Fancy another keyboard shortcut?</em>
     <div class="animate-bounce flex items-center gap-4">
         <span class="keymap">⌘</span>
         <span class="keymap">K</span>
@@ -37,6 +49,7 @@ modified: 2025-08-27 02:31
         <span class="keymap">Ctrl</span>
         <span class="keymap">K</span>
     </div>
+    <em>— <b>Search</b></em>
 </blockquote>
 
 <div class="flex justify-evenly">
@@ -56,16 +69,19 @@ modified: 2025-08-27 02:31
 
 ---
 <blockquote class="mt-16 flex gap-4">
-    <em>Another one? Have a</em>
+    <em>Another one? </em>
     <div class="animate-bounce flex items-center gap-4">
         <span class="keymap">⌘</span>
-        <span class="keymap">G</span>
+        <span class="keymap">Shift</span>
+        <span class="keymap">K</span>
     </div>
     or
     <div class="animate-bounce flex items-center gap-4">
         <span class="keymap">Ctrl</span>
-        <span class="keymap">G</span>
+        <span class="keymap">Shift</span>
+        <span class="keymap">K</span>
     </div>
+    <em>— <b>Lookup tags</b></em>
 </blockquote>
 
 <div class="flex justify-evenly flex-wrap gap-20">
@@ -107,12 +123,11 @@ modified: 2025-08-27 02:31
 
 > *Where the sparks are headed...*
 
-- [🌐 itch.io — HG-GJ: The HealthyGamer Game Jam](https://itch.io/jam/hg-gj)
-- 💬 Comments
-- ⏭️ Next and previous buttons + footnote references after the body. Inspirations,
-  - [[202508201325-cool-quartz-next-button|cool quartz next button]] ← [🌐 ericdarve — CME 302 Numerical Linear Algebra](https://ericdarve.github.io/NLA/content/intro.html)
-  - [[202508201326-quartz:-next-and-previous|Quartz: Next and Previous]] ← [📋 Quartz — Creating your own Quartz components](https://quartz.jzhao.xyz/advanced/creating-components)
-  - [[202508201549-log:-quartz|Log: Quartz]] ← [📋 Eilleen's Everything Notebook — Quartz customization log](https://quartz.eilleeenz.com/Quartz-customization-log)
+[🌐 itch.io — HG-GJ: The HealthyGamer Game Jam](https://itch.io/jam/hg-gj)
+<br>
+💬 Comments
+<br>
+⏭️ Next and previous buttons + footnote references after the body. [[202508201325-cool-quartz-next-button|Check this out for the full journey.]]
 
 ## 🗣️ Yap
 
