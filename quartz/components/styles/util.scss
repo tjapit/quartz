@@ -138,6 +138,7 @@
   /* https://ibelick.com/blog/create-shine-effect-on-card-with-tailwind-css */
   &.shine {
     --shine-deg: 45deg;
+    background-color: var(--lightgray);
     background-repeat: no-repeat;
     background-position: -100% 0, 0 0;
     background-image: linear-gradient(
