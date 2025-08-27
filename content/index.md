@@ -14,7 +14,7 @@ modified: 2025-08-27 02:31
 > *Shiny!*
 
 <div class="flex justify-evenly">
-    <a class="card wide" href="./fleets/202508270050-revisiting-how-i-do-zettelkasten.md">
+    <a class="card wide shine" href="./fleets/202508270050-revisiting-how-i-do-zettelkasten.md">
         📝 Revisiting how I do Zettelkasten
         <em class="primary">A rethink of how I approach my Zettelkasten</em>
     </a>
@@ -30,6 +30,11 @@ modified: 2025-08-27 02:31
     <em>Fancy a keyboard shortcut? Search with</em>
     <div class="animate-bounce flex items-center gap-4">
         <span class="keymap">⌘</span>
+        <span class="keymap">K</span>
+    </div>
+    or
+    <div class="animate-bounce flex items-center gap-4">
+        <span class="keymap">Ctrl</span>
         <span class="keymap">K</span>
     </div>
 </blockquote>
@@ -50,6 +55,18 @@ modified: 2025-08-27 02:31
 </div>
 
 ---
+<blockquote class="mt-16 flex gap-4">
+    <em>Another one? Have a</em>
+    <div class="animate-bounce flex items-center gap-4">
+        <span class="keymap">⌘</span>
+        <span class="keymap">G</span>
+    </div>
+    or
+    <div class="animate-bounce flex items-center gap-4">
+        <span class="keymap">Ctrl</span>
+        <span class="keymap">G</span>
+    </div>
+</blockquote>
 
 <div class="flex justify-evenly flex-wrap gap-20">
     <a class="card wide" href="./fleets">
