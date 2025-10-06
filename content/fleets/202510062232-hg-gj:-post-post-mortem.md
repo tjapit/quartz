@@ -56,9 +56,9 @@ this past the finish line.
 > writing this. Neurotypical individuals be warned, lots and lots of tangents.
 
 Reviews from generous playtesters are coming in and yep, it's as I'd feared.
-The tutorial was not too... tutorial-y. It was trade off that I was already
-aware of, which I made during the last week of the jam. I only had a couple of
-days left and I barely had a story put together, lots of assets not drawn, an
+The tutorial was not too... *tutorial-y*. It was trade off that I was already
+aware of, which was made during the last week of the jam. I only had a couple
+of days left and barely a story put together, lots of assets not drawn, an
 incomplete battle system, suffice to say: barely a game.
 
 I mean, even the bossfight was last minute!! I'm the most surprised that it was
@@ -98,48 +98,49 @@ There were,
 - No **Nytcast indicator** on the left, 
 - No **damage bar** for the enemy.
 
-Those game elements were in there largely because I was inspired by Dr. Gabriel
-Pappalardo's talk on Conveyance; a big thank you to vemm who hosted the free
-event over at [HG Members](https://coaching.healthygamer.gg/memberships). One
-question really knocked me over, "How would your players play your game if they
-don't understand it?" Which made me sigh in frustration at first because that
-meant I needed to shift stuff over in order to make room for this, but it also
-kicked my butt into gear to make those HUD elements. 
+Those game elements were in there largely inspired by **Dr. Gabriel
+Pappalardo**'s talk on Conveyance; a big thank you to **vemm**  who hosted the
+free event over at [HG Members](https://coaching.healthygamer.gg/memberships).
+One question really knocked me over, "*How would your players play your game if
+they don't understand it?*", which made me sigh in frustration at first because
+that meant I needed to shift stuff over in order to make room for this, but it
+also kicked my butt into gear to make those HUD elements. 
 
 But even with that at top of mind, I couldn't make a more proper tutorial in
 time for submission, which is why we ended up with this version of Anxst
-tutorial; an infodump in the form of a dialog. It was a sacrifice I had to
+tutorial; *an infodump in the form of a dialog*. It was a sacrifice I had to
 make, either having a better tutorial or have the game trailer, and I chose the
 game trailer because I wanted to learn how to make a video and put it out on
 YouTube.
 
 I really, *really* didn't want anything to break in the last minute, which was
-why the trailer was the safer choice in my mind.u I don't regret the choice
-because I'm happy with how everything turned out so far, the trailer is a
-banger in my mind because I didn't think I could make it in the first place.
-But having a better tutorial is definitely a lesson that I'll be carrying over
-to the next jam, if I ever decide to do any after this. 
+why the trailer was the safer choice in my mind. I don't regret the choice
+because I'm pretty happy with how everything turned out so far, the trailer is
+a banger in my mind because I didn't even think I could make it in the first
+place; my expectations were low. But anyways, having a better tutorial is
+definitely a lesson that I'll be carrying over to the next jam, if I ever
+decide to do any after this. 
 
 ## Progression
 
 In the same veins, *difficulty spikes*. This is an interesting one because I
 only really realized this after the jam and people have played the game, some
 of the difficulty jumps were just a bit too sudden for a lot of players. I
-didn't have the chance to get people to playtest it because the game was done
-at the eleventh hour, and I didn't take into account that me being *very close*
-to the project would cause problems. I didn't feel the difficulty spike
+didn't have the chance to invite people to playtest it because the game was
+done at the eleventh hour, and I didn't take into account that me being *very
+close* to the project would cause problems. I didn't feel the difficulty spike
 *because* I'd been playing the game for a bloody month while developing it at
 that point, no wonder I felt that it was easy XD 
 
 But at the same time, I'd also decided from the start that I wanted a difficult
 game, something that would remind me of how I felt when I got good with Mega
-Man Star Force. Elden Ring was also a big inspiration for this too, which made
-me think, I probably should've put the souls-like tag right from the get-go.
-The last minute addition of the bossfight (with the giant HP bar) was inspired
-by that, it just felt like something was lacking when I was playing the game. I
-thought it wasn't difficult enough, which brings us back to the problem of
-being too close to the game and not thinking about playtesting in the first
-place. 
+Man Star Force. Elden Ring was a big inspiration for this too, which made me
+think, I probably should've put the souls-like tag right from the get-go. The
+last minute addition of the bossfight (with the giant HP bar) was inspired by
+that, it just felt like something was lacking from my last couple playthroughs
+of Anxst near the end of the jam. I thought it wasn't difficult enough, which
+brings us back to the problem of being too close to the game and not thinking
+about playtesting in the first place, getting a different perspective. 
 
 > [!NOTE] Kudos to anyone who got to the bossfight!
 
@@ -147,8 +148,8 @@ So, I guess it's a creative balance really, while this doesn't excuse the
 difficulty caused by tutorial's lack of clarity, the difficulty spike part of
 it was me trying to make the game hard enough and fun enough for me to play.
 It's narcissistic, sure, but me as a player was top of mind while making the
-game. I wanted to make something MMSF-inspired, something that I would want to
-play, and Anxst is what we ended up with.
+game. I wanted to make something MMSF-inspired, something that **I** would want
+to play, and Anxst is what we ended up with.
 
 ## Lessons
 
@@ -156,8 +157,8 @@ A couple of things that I treasure from the players who gave me feedback and
 things I noticed,
 
 - Conveyance — tutorials, make 'em better next time; inspirations:
-    - [beautiful game, a literal tutorial section!](https://seppe-peelman.itch.io/down-is-up)
-    - [love the keyboard image and the clear description](https://kthemanth.itch.io/harrow-night)
+    - [Down is Up: beautiful game, a literal tutorial section!](https://seppe-peelman.itch.io/down-is-up)
+    - [Harrow Night: love the keyboard image and the clear description](https://kthemanth.itch.io/harrow-night)
 - Progression — be careful of difficulty spikes
     - have more people playtest
     - have people of varying levels of gaming experience play it
@@ -165,13 +166,14 @@ things I noticed,
 - Check out these other awesome games!
     - [Doctor Detective: beautiful typing game](https://akt0o.itch.io/doctor-detective)
     - [Day by Day: amazing pixel art, slice-of-life gameplay](https://meilinagames.itch.io/day-by-day)
+    - [To-Do: comfy vibes, slice-of-game-jam](https://koolit13.itch.io/to-do)
 
 Having other people play something that I poured a month's worth of care into
-is something I don't think I've ever really experienced. There wasn't a day
-when I wasn't thinking about the bloody game over the whole of September. And
-having others play it and feed their thoughts back about it is... filling? I
-guess? I don't know how to describe it. (man discovers the joy of creative
-work)
+and most importantly, getting feedback is something I don't think I've ever
+really experienced. There wasn't a day when I wasn't thinking about the bloody
+game over the whole of September. And having others play it and feed their
+thoughts back about it is... filling? I guess? I don't know how to describe it.
+(man discovers the joy of creative work)
 
 ## Conclusion
 
@@ -181,6 +183,13 @@ place??!
 
 So to honor that, I'm playing [CrossCode](https://www.cross-code.com/en/home)
 right now, it's a bloody amazing game, 10/10 would recommend. I can't believe
-that it took me this long to find it, found out about it while making the music
+that it took me this long to find, found out about it while making the music
 for Anxst and the YouTube algorithm gods bestowed me with their OST.
+
+It's got Mega Man-feel, SAO-inspired, Pokemon themes, Avatar (Aang) themes,
+Zenonia-feel to it. If you liked any of those games or shows, you'll love this
+one. It's got great puzzles, brilliant mechanics, beautiful art, and boppin'
+music! 
+
+(not an ad, but I wish it was... senpai notice me plz...)
 
