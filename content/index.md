@@ -4,9 +4,12 @@ created: 2025-08-18 03:02
 modified: 2025-08-27 02:31
 ---
 
-> *Digital gardening because real gardening requires me to touch grass.*
+> *Digital gardening, because real gardening requires me to touch grass.*
 
-> [!INFO] New to Zettelkasten? [[202508222156-what-is-a-zettelkasten|Click here to learn more!]]
+> [!INFO]+ New to Zettelkasten? [[202508222156-what-is-a-zettelkasten|Click here to learn more!]]
+>
+> *The non-linearity of the linked notes is part of the fun! When in doubt, use the
+> graph to navigate.*
 
 
 ## ✨ What's New?
@@ -25,14 +28,18 @@ modified: 2025-08-27 02:31
     <em>— <b>Try me!</b></em>
 </blockquote>
 
-<div class="flex justify-evenly">
-    <a class="card wide shine" href="./fleets/202508270050-revisiting-how-i-do-zettelkasten.md">
-        📝 Revisiting how I do Zettelkasten
-        <em class="primary">A rethink of how I approach my Zettelkasten</em>
-    </a>
-    <a class="card wide" href="./lits/202508270106-setting-aside-time-for-depth.md">
-        📝 Setting aside time for depth
-        <em class="primary">Actually sitting down and pausing for a moment</em>
+<div class="flex flex-col items-center gap-20">
+    <iframe 
+        frameborder="0" 
+        src="https://itch.io/embed/3902860?border_width=5&amp;bg_color=3a3f5e&amp;fg_color=dfe0e8&amp;link_color=cc2f7b&amp;border_color=686f99" 
+        width="840" 
+        height="180"
+    >
+        <a href="https://tamatotodile.itch.io/anxst">Anxst by tamatotodile</a>
+    </iframe>
+    <a class="card wide shine" href="./fleets/202510062232-hg-gj:-post-post-mortem.md">
+        📝 HG-GJ: Post-post-mortem
+        <em class="primary">I made a game!</em>
     </a>
 </div>
 
@@ -53,17 +60,17 @@ modified: 2025-08-27 02:31
 </blockquote>
 
 <div class="flex justify-evenly">
-    <a class="card tall" href="./fleets/202508192241-why-i-started-quartz.md">
-        📝 Why I started Quartz
-        <em class="primary">Why bother?</em>
+    <a class="card tall" href="./fleets/202508270050-revisiting-how-i-do-zettelkasten.md">
+        📝 Revisiting how I do Zettelkasten
+        <em class="primary">A rethink of how I approach Zettelkasten</em>
     </a>
-    <a class="card tall" href="./perms/202508130442-on-subjectivity.md">
+    <a class="card tall shine" href="./perms/202508130442-on-subjectivity.md">
         📝 First article
         <em class="primary">On Subjectivity</em>
     </a>
-    <a class="card tall" href="./refs/202508200013-ref-identifiers.md">
-        📝 Ref Identifiers
-        <em class="primary">Why all the emojis?</em>
+    <a class="card tall" href="./fleets/202508192241-why-i-started-quartz.md">
+        📝 Why I started Quartz
+        <em class="primary">Why bother?</em>
     </a>
 </div>
 
