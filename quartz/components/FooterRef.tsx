@@ -26,7 +26,7 @@ const NOTE_REFS = {
   },
   source: {
     id: "source",
-    title: "⃝ Source",
+    title: "Source",
     classNames: ["source"],
   },
 }
