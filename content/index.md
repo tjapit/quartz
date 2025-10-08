@@ -37,10 +37,16 @@ modified: 2025-08-27 02:31
     >
         <a href="https://tamatotodile.itch.io/anxst">Anxst by tamatotodile</a>
     </iframe>
-    <a class="card wide shine" href="./fleets/202510062232-hg-gj:-post-post-mortem.md">
-        📝 HG-GJ: Post-post-mortem
-        <em class="primary">I made a game!</em>
-    </a>
+    <div class="flex gap-20">
+        <a class="card wide shine" href="./fleets/202510062232-hg-gj:-post-post-mortem.md">
+            📝 HG-GJ: Post-post-mortem
+            <em class="primary">I made a game!</em>
+        </a>
+        <a class="card wide" href="./fleets/202508201549-log:-quartz.md">
+            📝 Log: Quartz
+            <em class="primary">Quartz activity log</em>
+        </a>
+    </div>
 </div>
 
 ## ⌘ Places of interest
@@ -163,15 +169,3 @@ own way, I try to close that gap with keyboard shortcuts.
 
 Anyways, welcome!
 
-Also,
-
-```
-                 ███▄▄▄▄      ▄████████  ▄██████▄   ▄█    █▄   ▄█    ▄▄▄▄███▄▄▄▄
-                 ███▀▀▀██▄   ███    ███ ███    ███ ███    ███ ███  ▄██▀▀▀███▀▀▀██▄
-                 ███   ███   ███    █▀  ███    ███ ███    ███ ███▌ ███   ███   ███
-                 ███   ███  ▄███▄▄▄     ███    ███ ███    ███ ███▌ ███   ███   ███
-                 ███   ███ ▀▀███▀▀▀     ███    ███ ███    ███ ███▌ ███   ███   ███
-                 ███   ███   ███    █▄  ███    ███ ███    ███ ███  ███   ███   ███
-                 ███   ███   ███    ███ ███    ███ ███    ███ ███  ███   ███   ███
-                  ▀█   █▀    ██████████  ▀██████▀   ▀██████▀  █▀    ▀█   ███   █▀  , btw
-```
