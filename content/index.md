@@ -1,7 +1,7 @@
 ---
 title: 🌱 Hi! I'm Tim. Welcome!
 created: 2025-08-18 03:02
-modified: 2025-08-27 02:31
+modified: 2025-11-02 21:17
 ---
 
 > *[[202508192241-why-i-started-quartz|Digital gardening]], because real gardening requires me to touch grass.*
@@ -28,25 +28,15 @@ modified: 2025-08-27 02:31
     <em>— <b>Try me!</b></em>
 </blockquote>
 
-<div class="flex flex-col items-center gap-20">
-    <div class="flex gap-20">
-        <a class="card wide shine" href="./perms/202508160519-mekansm.md">
-            📝 On Healing
-            <em class="primary">Mekansm: Practical Healing</em>
-        </a>
-        <a class="card wide" href="./fleets/202510062232-hg-gj:-post-post-mortem.md">
-            📝 HG-GJ: Post-post-mortem
-            <em class="primary">I made a game!</em>
-        </a>
-    </div>
-    <iframe 
-        frameborder="0" 
-        src="https://itch.io/embed/3902860?border_width=5&amp;bg_color=3a3f5e&amp;fg_color=dfe0e8&amp;link_color=cc2f7b&amp;border_color=686f99" 
-        width="840" 
-        height="180"
-    >
-        <a href="https://tamatotodile.itch.io/anxst">Anxst by tamatotodile</a>
-    </iframe>
+<div class="flex justify-center flex-wrap gap-20">
+    <a class="card wide shine" href="./perms/202508160519-mekansm.md">
+        📝 On Healing
+        <em class="primary">Mekansm: Practical Healing</em>
+    </a>
+    <a class="card wide" href="./fleets/202510062232-hg-gj:-post-post-mortem.md">
+        📝 HG-GJ: Post-post-mortem
+        <em class="primary">I made a game!</em>
+    </a>
 </div>
 
 ## ⌘ Places of interest
@@ -65,21 +55,19 @@ modified: 2025-08-27 02:31
     <em>— <b>Search</b></em>
 </blockquote>
 
-<div class="flex flex-col items-center gap-20">
-    <div class="flex gap-20">
-        <a class="card tall shine" href="./perms/202508130442-on-subjectivity.md">
-            📝 On Subjectivity
-            <em class="primary">Fuck it, we ball</em>
-        </a>
-        <a class="card tall" href="./fleets/202508270050-revisiting-how-i-do-zettelkasten.md">
-            📝 Revisiting Zettelkasten
-            <em class="primary">ζ</em>
-        </a>
-        <a class="card tall" href="./fleets/202508201549-log:-quartz.md">
-            📝 Log: Quartz
-            <em class="primary">Quartz activity log</em>
-        </a>
-    </div>
+<div class="flex justify-center flex-wrap gap-20">
+    <a class="card tall shine" href="./perms/202508130442-on-subjectivity.md">
+        📝 On Subjectivity
+        <em class="primary">Fuck it, we ball</em>
+    </a>
+    <a class="card tall" href="./fleets/202508270050-revisiting-how-i-do-zettelkasten.md">
+        📝 Revisiting Zettelkasten
+        <em class="primary">ζ</em>
+    </a>
+    <a class="card tall" href="./fleets/202508201549-log:-quartz.md">
+        📝 Log: Quartz
+        <em class="primary">Quartz activity log</em>
+    </a>
 </div>
 
 ---
