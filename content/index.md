@@ -164,5 +164,5 @@ Anyways, welcome!
 <br>
 💬 Training my own personal, local AI on my (now 5 years) GTX 1070 Ti
 <br>
-🎓 Learn how to pull back on part-time teaching, I've been caring too much without proper compensation
+🎓 Focus less on teaching, more on systems to prop up teaching
 
