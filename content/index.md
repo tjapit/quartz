@@ -160,9 +160,9 @@ Anyways, welcome!
 
 > *Where the sparks are headed...*
 
-🎓 Focus on teaching, it's been rewarding :D
+💌 Love letter to ハイキュー!!
 <br>
 💬 Training my own personal, local AI on my (now 5 years) GTX 1070 Ti
 <br>
-💌 Love letter to ハイキュー!!
+🎓 Learn how to pull back on part-time teaching, I've been caring too much without proper compensation
 
