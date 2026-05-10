@@ -154,15 +154,3 @@ Anyways, welcome!
 <br>
 [🌐 Eilleen's Everything Notebook](https://quartz.eilleeenz.com/)
 
----
-
-## 🌇 On the horizon
-
-> *Where the sparks are headed...*
-
-💌 Love letter to ハイキュー!!
-<br>
-💬 Training my own personal, local AI on my (now 5 years) GTX 1070 Ti
-<br>
-🎓 Focus less on teaching, more on systems to prop up teaching
-
