@@ -1,7 +1,7 @@
 ---
 title: 🌱 Hi! I'm Tim. Welcome!
 created: 2025-08-18 03:02
-modified: 2025-11-02 21:17
+modified: 2026-05-13 21:03 
 ---
 
 > *[[202508192241-why-i-started-quartz|Digital gardening]], because real gardening requires me to touch grass.*
